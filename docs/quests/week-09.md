@@ -55,9 +55,9 @@ Three short paragraphs — **250–500 words total**.
     AI wasn't there when you got stuck, it didn't make your play, and it doesn't know what you believed last week. A reflection that could have been written without doing the week does not contribute to your learning, and pollutes the class's learning space instead. Please be a good citizen of our learning commons!
 
 
-!!! warning "Two hand-ins, both due midnight the night before class"
+!!! warning "One hand-in, due midnight the night before class"
 
-    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
+    **Reflection** → link your heading in this week's Google Doc. Worth **2 points**, and I drop your lowest reflection of the term — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
 
-    Neither is **accepted late**, because I use them to plan class. See the syllabus late policy for what to do if life gets in the way!
+    It is not **accepted late**, because I use it to plan class. See the syllabus late policy for what to do if life gets in the way!
 

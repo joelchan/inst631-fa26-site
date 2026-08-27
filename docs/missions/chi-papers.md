@@ -13,7 +13,7 @@ This mission is a good way to get started on understanding HCI research - especi
 
 - To find CHI papers, go dig through the proceedings available [here](https://dl.acm.org/conference/chi/proceedings) (remember to look just at the last two years). You may have to be logged in via campus wifi or through the UMD library to get your free access.
 - even better: Install the UMD Reload Button Extension to your browser to easily access libraries, journals, papers, etc. that you should have access to: [https://lib.guides.umd.edu/reload-button](https://lib.guides.umd.edu/reload-button)
-- make a Google Doc with your name on it in this shared folder: https://drive.google.com/drive/u/3/folders/1tUaAHE7UWJxCFavs-CAJ3ohLevKLb7Lq, then make 3 sections (one for each part below). You'll link to these sections in your submission on ELMS for credit.
+- make a Google Doc with your name on it in this shared folder: https://drive.google.com/drive/folders/1tUaAHE7UWJxCFavs-CAJ3ohLevKLb7Lq, then make 3 sections (one for each part below). You'll link to these sections in your submission on ELMS for credit.
 	- *if you think you might want to put more stuff in our drive for this mission, make a folder with your name on it instead!*
 
 ## PART 1: _due Week 3 before class_

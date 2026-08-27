@@ -1,6 +1,6 @@
 You will be asked to do two forms of usability evaluation: 1) doing a usability test involving 5 users (any 5 users) attempting tasks testing software, and 2) an expert review on the same interface utilizing a set of heuristics (e.g. Shneiderman’s 8 Golden Rules of Interface Design). You will need to report on the results of each.
 
-For submission purposes, make a Google Doc with your name on it in this shared folder: https://drive.google.com/drive/u/3/folders/17Atan80gVTIDuGmNKLD3Q2rk1M8q8sAH, then make 3 sections (one for each part below). You'll link to these sections in your submission on ELMS for credit.
+For submission purposes, make a Google Doc with your name on it in this shared folder: https://drive.google.com/drive/folders/17Atan80gVTIDuGmNKLD3Q2rk1M8q8sAH, then make 3 sections (one for each part below). You'll link to these sections in your submission on ELMS for credit.
 - *if you think you might want to put more stuff in our drive for this mission, make a folder with your name on it instead!*
 
 # Part 1: Prepare for the Expert Review — _due Week 7 before class_
