@@ -186,7 +186,7 @@
 
     📺 **WATCH** — [how to track a manual evaluation](https://youtu.be/C770bSvGr_E?t=663), hands-on demo (~26 mins)
 
-    🃏 **PLAY** — **make it more accessible.** Take the interface you evaluated for [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md) and fix one or two accessibility problems in it, with EDA 4 as the guide and the **WCAG designer resources** as inspiration — [UI](https://www.wcag.com/resource/ui-quick-tips-for-designers/) and [UX quick tips](https://www.wcag.com/resource/ux-quick-tips-for-designers/), [key success criteria](https://www.wcag.com/designers/), [designing for web accessibility](https://www.w3.org/WAI/tips/designing/). One or two done properly beats a list of ten
+    🃏 **PLAY — in class this week.** **Make it more accessible.** Nothing to do beforehand beyond arriving with it open. Take the interface you evaluated for [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md) and fix one or two accessibility problems in it, with EDA 4 as the guide and the **WCAG designer resources** as inspiration — [UI](https://www.wcag.com/resource/ui-quick-tips-for-designers/) and [UX quick tips](https://www.wcag.com/resource/ux-quick-tips-for-designers/), [key success criteria](https://www.wcag.com/designers/), [designing for web accessibility](https://www.w3.org/WAI/tips/designing/). One or two done properly beats a list of ten
 
     🎒 **Bring one object you use every day** — whatever's already in your bag or pocket
 
