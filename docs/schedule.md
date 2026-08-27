@@ -4,22 +4,10 @@
 
 - **ID** = *Interaction Design* (Rogers et al., 2019)
 - **EDA** = *Ensuring Digital Accessibility* (Lazar et al., 2015)
-- **RMHCI** = *Research Methods in HCI* (Lazar et al., 2017)
-
-Fifteen Tuesdays fall in the Fall 2026 term. Fall Break removes one (Oct 13), leaving **14 class sessions**. Thanksgiving recess runs Wed–Sun this year, so **Tue Nov 24 is a regular class day**.
-
-Each week links to its own page with the full readings, watches and play instructions.
 
 ---
 
-## PART 1: FOUNDATIONS — *what HCI is, and who people are*
-
-*Who people are before we ask whether a design fits them: cognitive, social, emotional. Then the interfaces that try to meet them.*
-
-!!! abstract "Five chapters, one a week"
-
-    Weeks 2–6 read one chapter of *Interaction Design* apiece, so everyone starts the term with the same words for what a person is. Weeks 3–5 are **cognitive**, then **emotional**, then **what we build**; Week 6 puts all three together as **social**.
-
+## PART 1: FOUNDATIONS — *what is HCI, what is human, what is interaction*
 
 ### Week 1 · Tue Sep 1 · Introduction to the course & my play-based pedagogy
 
@@ -27,7 +15,7 @@ Each week links to its own page with the full readings, watches and play instruc
 
 ### Week 2 · Tue Sep 8 · What is HCI?
 
-*An overview of the field as practice and as research — one reading for each.*
+*An overview of the field as practice and as research*
 
 → **[The full quests for this week](quests/week-02.md)**
 
@@ -35,7 +23,7 @@ Each week links to its own page with the full readings, watches and play instruc
 
     📚 **READ** — **practice:** ID 2 - The Process of Interaction Design (31pp) — the user-centered approach, the four basic activities, the lifecycle. **Research, one of:** Oulasvirta & Hornbæk (2016), *HCI Research as Problem-Solving* (12pp) or Wobbrock & Kientz (2016), *Research contributions in HCI* (7pp)
 
-    📺 **WATCH** — pick **one**: Peter Kariuki, *Rwanda is Different from California* (70 min, starts at 13:14), or Kate Starbird, *Foundations and Futures of HCI* (~50 min)
+    📺 **WATCH** — Peter Kariuki, *Rwanda is Different from California* (**~58 min** — the video is 71 min but starts at 13:14)
 
     🃏 **PLAY** — seeing the good, bad, and manipulative design all around you
 
@@ -44,7 +32,7 @@ Each week links to its own page with the full readings, watches and play instruc
 
 ### Week 3 · Tue Sep 15 · Cognition
 
-*First of the trio. Attention, memory, mental models — what a person brings to an interface before they touch it.*
+*Attention, memory, mental models, oh my!*
 
 → **[The full quests for this week](quests/week-03.md)**
 
@@ -63,7 +51,7 @@ Each week links to its own page with the full readings, watches and play instruc
 
 ### Week 4 · Tue Sep 22 · Emotion
 
-*Second of the trio. How things make us feel, and what that does to how we use them.*
+*It turns out people have feelings, and this matters for HCI!*
 
 → **[The full quests for this week](quests/week-04.md)**
 
@@ -71,7 +59,7 @@ Each week links to its own page with the full readings, watches and play instruc
 
     📚 **READ** — ID 6 - Emotional Interaction (27pp). *CYO, for the practitioner take:* [IxDF on emotional design](https://www.interaction-design.org/literature/topics/emotional-design), [Smashing's *The Personality Layer*](https://www.smashingmagazine.com/2012/07/the-personality-layer/), or a chapter from [*Virtual Interiorities*](https://press.etc.cmu.edu/publications/etc-press/book_series/virtual-interiorities)
 
-    📚📺 **READ / EXAMINE** — the two posts *are* this week's watch. They're image- and video-heavy on purpose: [IxDF on emotional design](https://www.interaction-design.org/literature/topics/emotional-design), [Smashing's *The Personality Layer*](https://www.smashingmagazine.com/2012/07/the-personality-layer/). *"If you have trained your brain to see videos/images in blog posts as 'ads' you should skip over, don't do that here!"*
+    📚📺 **READ / EXAMINE** (**~50 min for the two**) — image- and video-heavy on purpose, and our stand-in for the "watch" this week: [IxDF on emotional design](https://www.interaction-design.org/literature/topics/emotional-design) (~25 min), [Smashing's *The Personality Layer*](https://www.smashingmagazine.com/2012/07/the-personality-layer/) (~25 min). *If you have trained your brain to see videos/images in blog posts as 'ads' you should skip over, don't do that here!*
 
     🃏 **PLAY** — give something a personality, then live with it for a few days: personify an object (Lane A) or reskin an interface (Lane B). Keep a running log as you go, and post the log plus the thing
 
@@ -82,17 +70,17 @@ Each week links to its own page with the full readings, watches and play instruc
 
 ### Week 5 · Tue Sep 29 · Interfaces — conceptualizing interaction, and the forms it takes
 
-*Two levels in one week. The galleries are **patterns**, the parts. ID 3 is the level above: the **conceptual model**, the whole those parts add up to. Week 3 was the level above that — the **mental model** a person actually forms. The question is whether what you assemble out of borrowed parts maps onto anything a head would produce.*
+*What kinds of design moves can we make in HCI?*
 
 → **[The full quests for this week](quests/week-05.md)**
 
 !!! abstract "Before class"
 
-    📚 **READ** — ID 3 - Conceptualizing Interaction (31pp) — conceptual models, interface metaphors, the core interaction types. That's the whole read; ID 7 - Interfaces (66 pages) is **not assigned as a reading**, it's a gallery and it's in the PLAY
+    📚 **READ** — ID 3 - Conceptualizing Interaction (31pp) — conceptual models, interface metaphors, core interaction types.
 
-    📺 **WATCH** — pick **one** from the [interface studies video-essay playlist](https://www.youtube.com/watch?v=vRDxelta5Pg&list=PLN2Xe3mUoVEs). Carries more of the week than a WATCH usually does — the point is to see interfaces *argued about*, not just cataloged
+    📺 **WATCH** — pick **one** from the [interface studies video-essay playlist](https://www.youtube.com/watch?v=vRDxelta5Pg&list=PLN2Xe3mUoVEs) (**~13–30 min each**, most around 17)
 
-    🃏 **PLAY** — go shopping in the galleries: ID 7 - Interfaces (66 pages), [The Component Gallery](https://component.gallery/), [Game UI Database](https://www.gameuidatabase.com/index.php), [Maggie Appleton's patterns](https://maggieappleton.com/patterns), [The Shape of AI](https://www.shapeof.ai/). Then sketch **at least 3** radically different interfaces for an object you've been pondering, stealing shamelessly — and for each, one line on *what it wants the user to think it is*
+    🃏 **PLAY** — go shopping in the galleries: ID 7 - Interfaces (66pp, but it's a catalogue — flip, don't read), [The Component Gallery](https://component.gallery/), [Game UI Database](https://www.gameuidatabase.com/index.php), [Maggie Appleton's patterns](https://maggieappleton.com/patterns), [The Shape of AI](https://www.shapeof.ai/). Then sketch **at least 3** radically different interfaces for an object you've been pondering, stealing shamelessly
 
     Weekly reflection
 
@@ -101,7 +89,7 @@ Each week links to its own page with the full readings, watches and play instruc
 
 ### Week 6 · Tue Oct 6 · Social — **async**
 
-*Last of the foundation weeks, and the one that puts the other three in a room together. Async — no meeting.*
+*Aha! People are plural! How does that change what/how we design?*
 
 → **[The full quests for this week](quests/week-06.md)**
 
@@ -111,14 +99,12 @@ Each week links to its own page with the full readings, watches and play instruc
 
     📺 **WATCH** — Daniel Cook (Spry Fox), *Game Design Patterns for Building Friendships* ([63 min, GDC 2018](https://www.youtube.com/watch?v=voz6S7ryWC0)) — longer than usual, and affordable because there's no meeting. Written version, free and skimmable: [Project Horseshoe 2016](https://www.projecthorseshoe.com/reports/featured/ph16r4.htm)
 
-    🃏 **PLAY** — **three that worked, one that didn't.** Three moments where a social interaction went well (any medium — a hallway conversation counts) and one **technology-mediated** moment where it didn't. Name the mechanism in all four using the chapter — turn-taking, adjacency pairs, back channeling, awareness, repair. Then **design at least one fix** for the bad one, drawing on the good three
+    🃏 **PLAY** — **three that worked, one that didn't.** Three moments where a social interaction went well (any medium — a hallway conversation counts) and one **technology-mediated** moment where it didn't. Use the chapter's concepts to try to describe what's going on, and design at least one fix for the bad one
 
     Weekly reflection
 
 
 ## PART 2: EVALUATION — *how do we judge a design?*
-
-*Three kinds, which is [LO2](syllabus.md)'s own sentence: expert-based (wk 8), user-based (wk 9), automated (Part 3, via the mission). They converge in the Week 13 comparison workshop, where you find out what each one **can't see**.*
 
 ### Tue Oct 13 · No class — UMD Fall Break
 
@@ -128,11 +114,11 @@ Each week links to its own page with the full readings, watches and play instruc
 
 !!! abstract "Before class"
 
-    📚 **READ** — ID 14 - Introducing Evaluation (27 pages)
+    📚 **READ** — ID 14 - Introducing Evaluation (27pp)
 
     📺 **WATCH** — Alan Dix, *Types of Evaluation: UX Design Research Methods* ([12 min, IxDF](https://youtu.be/w23FZkC6j-w)) — a map of the method space, qual and quant, and how they complement each other
 
-    🃏 **PLAY** — **hot takes: with data!** Six designed things you think are over- or underrated, fast and unjustified. Pick **one** and turn it into an *explanation* you could check — *"wired headphones are underrated because they make small talk easier at parties"* — and you may have more than one explanation. Then name the **observations** that would convince someone, deliberately **not** the method. Then sketch three studies at three budgets: an afternoon and no money, a week and five people, a month and a real budget. Post all six takes plus the sketches
+    🃏 **PLAY** — **hot takes: with data!** Brainstorm six designed things you think are over- or underrated, fast and unjustified. Pick **one** and turn it into an *explanation* you could check — *"wired headphones are underrated because they make small talk easier at parties"*. Then name the **observations/data** that would convince someone, and sketch three studies that can get this data, at three budgets: an afternoon and no money, a week and five people, a month and a real budget. Post all six takes plus the sketches
 
     Weekly reflection
 
@@ -145,7 +131,7 @@ Each week links to its own page with the full readings, watches and play instruc
 
 !!! abstract "Before class"
 
-    📚 **READ** — ID 16 - Evaluation - Inspections, Analytics, and Models
+    📚 **READ** — ID 16 - Evaluation - Inspections, Analytics, and Models ^todo-id16-pdf
 
     📺 **WATCH** — Nielsen's 10 usability heuristics (~40 min total, incl. one critique of them)
 
@@ -162,34 +148,30 @@ Each week links to its own page with the full readings, watches and play instruc
 
 !!! abstract "Before class"
 
-    📚 **READ** — RMHCI 10 - Usability testing ([doi:10.1016/B978-0-12-805390-4.00010-8](https://doi.org/10.1016/B978-0-12-805390-4.00010-8))
+    📚 **READ** — ID 15 - Evaluation Studies - From Controlled to Natural Settings (26pp)
 
-    📺 **WATCH** — usability testing, a step-by-step guide (35 min) — use it *together with* the READ to prepare
+    📺 **WATCH** — usability testing, a step-by-step guide (~35 min)
 
-    🃏 **NO PLAY** — *"I figure the expert reviews and usability testing will be keeping you pretty busy!"*
+    🃏 **NO PLAY** — I figure the expert reviews and usability testing will be keeping you pretty busy!
 
     Weekly reflection
 
     **Deadline (by class time): [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), usability test**
 
 
-## PART 3: DESIGNING FOR PEOPLE, PLURAL — *users are not interchangeable*
-
-*Bodies differ, and that is part of the design. Two weeks: the concepts and the tools, then evaluating for them.*
+## PART 3: INCLUSIVE DESIGN PRIMER
 
 ### Week 10 · Tue Nov 10 · Foundations of accessibility, and the "BAD" session
-
-*What accessibility is and who it's for — then a page broken on purpose, and the tools that claim to find it.*
 
 → **[The full quests for this week](quests/week-10.md)**
 
 !!! abstract "Before class"
 
-    📚 **READ** — EDA 1 - Introduction to accessible technology (19pp) and EDA 5 - U.S. laws and lawsuits (24pp). EDA 7 - Regulations (18pp) and EDA 9 - Compliance monitoring policies and procurement (22pp) are **lookup material for the session**, not reading — EDA 5 primes them
+    📚 **READ** — EDA 1 - Introduction to accessible technology (19pp) and EDA 5 - U.S. laws and lawsuits (24pp).
 
-    📺 **WATCH** — Katta Spiel, *(Some) Bodies in Interaction — A Critical Look at which Bodies HCI Considers* ([50 min](https://www.youtube.com/watch?v=f93u0irOoRo))
+    📺 **WATCH** — Katta Spiel, *(Some) Bodies in Interaction — A Critical Look at which Bodies HCI Considers* (~50 min, [video](https://www.youtube.com/watch?v=f93u0irOoRo))
 
-    🃏 **PLAY** — **unplug the mouse.** This is **hour one of the [Accessibility Testing Mission](missions/accessibility-testing.md)**: pick the page *and the task*, put the mouse out of reach, and spend the hour keyboard-only. Log every lost focus ring, unreachable control, keyboard trap, surprising jump, and forty-Tab journey — that list is the first pass of the manual inspection
+    🃏 **PLAY** — **unplug the mouse.** This is **hour one of the [Accessibility Testing Mission](missions/accessibility-testing.md)**: pick the page *and the task*, put the mouse out of reach, and spend the hour keyboard-only. Log every lost focus ring, unreachable control, keyboard trap, surprising jump, and forty-Tab journey. This list is the first pass of the manual inspection!
 
     Weekly reflection
 
@@ -200,11 +182,11 @@ Each week links to its own page with the full readings, watches and play instruc
 
 !!! abstract "Before class"
 
-    📚 **READ** — EDA 4 - Technical standards for accessibility (17 pages) (), EDA 8 - Evaluation methods and measurement (21 pages) ()
+    📚 **READ** — EDA 4 - Technical standards for accessibility (17pp), EDA 8 - Evaluation methods and measurement (21pp)
 
-    📺 **WATCH** — [how to track a manual evaluation](https://youtu.be/C770bSvGr_E?t=663), hands-on demo. *(Spiel has moved to Week 10, next to the accessibility readings.)*
+    📺 **WATCH** — [how to track a manual evaluation](https://youtu.be/C770bSvGr_E?t=663), hands-on demo. The link starts you at 11:03; **watch ~20 min from there** — the full recording runs 88 min and you don't need all of it ^todo-wk11-stop
 
-    🃏 **PLAY** — **make it more accessible.** Take the interface you evaluated for [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md) and fix one or two accessibility problems in it, with EDA 4 as the guide and the **WCAG designer resources** as inspiration — [UI](https://www.wcag.com/resource/ui-quick-tips-for-designers/) and [UX quick tips](https://www.wcag.com/resource/ux-quick-tips-for-designers/), [key success criteria](https://www.wcag.com/designers/), [designing for web accessibility](https://www.w3.org/WAI/tips/designing/). *"You know the interface really well by now."* One or two done properly beats a list of ten
+    🃏 **PLAY** — **make it more accessible.** Take the interface you evaluated for [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md) and fix one or two accessibility problems in it, with EDA 4 as the guide and the **WCAG designer resources** as inspiration — [UI](https://www.wcag.com/resource/ui-quick-tips-for-designers/) and [UX quick tips](https://www.wcag.com/resource/ux-quick-tips-for-designers/), [key success criteria](https://www.wcag.com/designers/), [designing for web accessibility](https://www.w3.org/WAI/tips/designing/). One or two done properly beats a list of ten
 
     🎒 **Bring one object you use every day** — whatever's already in your bag or pocket
 
@@ -213,17 +195,17 @@ Each week links to its own page with the full readings, watches and play instruc
     **Deadline (by class time): [Accessibility Testing Mission](missions/accessibility-testing.md), manual inspection**
 
 
-## PART 4: AI AND HCI
+## PART 4: AI AND THE FUTURE OF HCI
 
-### Week 12 · Tue Nov 24 · AI and HCI I — how AI changes *what* we design
+### Week 12 · Tue Nov 24 · AI and HCI I — how does AI change *what* we design?
 
 → **[The full quests for this week](quests/week-12.md)**
 
 !!! abstract "Before class"
 
-    📚 **READ** — Yang et al. (2020), *Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design* ([doi:10.1145/3313831.3376301](https://doi.org/10.1145/3313831.3376301))
+    📚 **READ** — Yang et al. (2020), *Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design* (13pp, [doi:10.1145/3313831.3376301](https://doi.org/10.1145/3313831.3376301))
 
-    📺 **WATCH** — UIST '24 Vision Talks: Arvind Satyanarayan, *Intelligence as Agency*; Wendy Mackay, *Parasitic or Symbiotic?* (~25 min each; Q&A optional)
+    📺 **WATCH** — UIST '24 Vision Talks: Arvind Satyanarayan, *Intelligence as Agency*; Wendy Mackay, *Parasitic or Symbiotic?* (**~25 min each, ~50 min total**). The recording is one 105-min video of the whole session, so ^todo-uist-timestamps — Q&A optional
 
     🃏 **PLAY** — the sparkle-button audit: collect the AI features already in the products you use
 
@@ -231,10 +213,10 @@ Each week links to its own page with the full readings, watches and play instruc
 
     Weekly reflection
 
-    *CYO: add Xu (2026), UX 3.0 ([doi:10.1145/3794787](https://doi.org/10.1145/3794787)), for a three-way*
+    *CYO: add Xu (2026), UX 3.0 (6pp, [doi:10.1145/3794787](https://doi.org/10.1145/3794787))*
 
 
-### Week 13 · Tue Dec 1 · AI and HCI II — how AI changes *how* we design
+### Week 13 · Tue Dec 1 · AI and HCI II — how does AI change *who* designs, and *how*?
 
 What is the role of an HCI expert in the age of AI?
 
@@ -242,9 +224,9 @@ What is the role of an HCI expert in the age of AI?
 
 !!! abstract "Before class"
 
-    📚 **READ** — Ink & Switch, *Malleable Software: Restoring user agency in a world of locked-down apps*
+    📚 **READ** — Ink & Switch, *Malleable Software: Restoring user agency in a world of locked-down apps* (~10,000 words, **≈45 min** — longer than it looks)
 
-    📺 **WATCH** — Maggie Appleton, *Home-cooked Software and Barefoot Programmers* (27 min)
+    📺 **WATCH** — Maggie Appleton, *Home-cooked Software and Barefoot Programmers* (~27 min)
 
     🃏 **NO PLAY** — we build in class instead; come with a working tool and an idea
 
@@ -259,7 +241,7 @@ What is the role of an HCI expert in the age of AI?
 
 !!! abstract "Before class"
 
-    📚📺🃏 **All in one** — design thinking for your own life (TED post + talk), *and* **watch someone use the thing you made**: hand your tool to one person (ideally not a classmate), observe without explaining or rescuing, then rebuild. v2 addresses what you saw, not what you'd planned. Bring **both versions**
+    📚📺🃏 **All in one** — design thinking for your own life (TED post ~15 min, plus the talk at the foot of it), *and* **watch someone use the thing you made**: hand your tool to one person (ideally not a classmate), observe without explaining or rescuing, then rebuild. v2 addresses what you saw, not what you'd planned. Bring **both versions**
 
     **No reflection this final week**
 
