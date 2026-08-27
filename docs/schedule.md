@@ -131,7 +131,7 @@
 
 !!! abstract "Before class"
 
-    📚 **READ** — ID 16 - Evaluation - Inspections, Analytics, and Models ^todo-id16-pdf
+    📚 **READ** — ID 16 - Evaluation - Inspections, Analytics, and Models
 
     📺 **WATCH** — Nielsen's 10 usability heuristics (~40 min total, incl. one critique of them)
 
@@ -184,7 +184,7 @@
 
     📚 **READ** — EDA 4 - Technical standards for accessibility (17pp), EDA 8 - Evaluation methods and measurement (21pp)
 
-    📺 **WATCH** — [how to track a manual evaluation](https://youtu.be/C770bSvGr_E?t=663), hands-on demo. The link starts you at 11:03; **watch ~20 min from there** — the full recording runs 88 min and you don't need all of it ^todo-wk11-stop
+    📺 **WATCH** — [how to track a manual evaluation](https://youtu.be/C770bSvGr_E?t=663), hands-on demo (~26 mins)
 
     🃏 **PLAY** — **make it more accessible.** Take the interface you evaluated for [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md) and fix one or two accessibility problems in it, with EDA 4 as the guide and the **WCAG designer resources** as inspiration — [UI](https://www.wcag.com/resource/ui-quick-tips-for-designers/) and [UX quick tips](https://www.wcag.com/resource/ux-quick-tips-for-designers/), [key success criteria](https://www.wcag.com/designers/), [designing for web accessibility](https://www.w3.org/WAI/tips/designing/). One or two done properly beats a list of ten
 
@@ -205,7 +205,7 @@
 
     📚 **READ** — Yang et al. (2020), *Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design* (13pp, [doi:10.1145/3313831.3376301](https://doi.org/10.1145/3313831.3376301))
 
-    📺 **WATCH** — UIST '24 Vision Talks: Arvind Satyanarayan, *Intelligence as Agency*; Wendy Mackay, *Parasitic or Symbiotic?* (**~25 min each, ~50 min total**). The recording is one 105-min video of the whole session, so ^todo-uist-timestamps — Q&A optional
+    📺 **WATCH** — UIST '24 Vision Talks: Arvind Satyanarayan, *Intelligence as Agency*; Wendy Mackay, *Parasitic or Symbiotic?* (**~25 min each, ~50 min total**). The recording is one 105-min video of the whole session; Q&A optional.
 
     🃏 **PLAY** — the sparkle-button audit: collect the AI features already in the products you use
 
@@ -244,5 +244,7 @@ What is the role of an HCI expert in the age of AI?
     📚📺🃏 **All in one** — design thinking for your own life (TED post ~15 min, plus the talk at the foot of it), *and* **watch someone use the thing you made**: hand your tool to one person (ideally not a classmate), observe without explaining or rescuing, then rebuild. v2 addresses what you saw, not what you'd planned. Bring **both versions**
 
     **No reflection this final week**
+
+    **Deadline (by class time): [Accessibility Testing Mission](missions/accessibility-testing.md), comparison**
 
 

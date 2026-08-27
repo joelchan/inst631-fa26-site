@@ -81,7 +81,7 @@ Our in-person class time will be used for discussions, collaborative work, and o
 
 **Each is worth 2 points, and I drop your lowest PLAY and your lowest Reflection** — so one entirely lost week costs you nothing, which is usually how it goes.
 
-→ **[Where your work goes](where-your-work-goes.md)** has the step-by-step, including how to get the link out of Miro and Google Docs, and what to do if something breaks at eleven at night.
+→ **[Where your work goes](where-your-work-goes.md)** has the step-by-step for these and for the missions and CYOs below, including how to get the link out of Miro and Google Docs, and what to do if something breaks at eleven at night.
 
 The reflection itself is — **250–500 words**, due midnight the night before class, so I can use your responses to plan the session. It is not a summary. Three short paragraphs:
 
@@ -123,6 +123,11 @@ You will be asked to do two forms of accessibility evaluation:
 
 We will provide access to the automated accessibility testing tool, free of charge. You will need to report on the results of each, including a comparison between what you found manually versus using the automated tool. 
 
+#### CYOs (Choose Your Own)
+
+Choose your own (CYO) quests are available for you to... choose your own quests that help you explore the fundamentals of HCI, as you understand it! These could be your own plays, a conversation with a cool HCI person, or your notes from a cool talk you attended, or a bonus reading or watch listed in our [Schedule](schedule.md). The choice is *literally* yours :) You choose what to do, with a requirement to share back with everyone in our shared doc. Please also share any opportunities (events, talks, cool things you saw that others might find interesting), in our shared doc! Do as many CYOs as you like, but we'll grade only 5 of them.
+
+→ CYOs go in the shared CYO doc, then you link your heading on ELMS — see [Where your work goes](where-your-work-goes.md).
 ### Grading Structure
 
 Your grade is determined by your performance on the learning assessments in the course and is assigned individually (and is not "curved"). In particular, each quest, mission, etc. is worth points — and at the end of the semester, I add up all the points to determine your grade.
@@ -131,16 +136,16 @@ All weekly reading reflection scores will be posted on ELMS; all paper-based ass
 
 If earning a particular grade is important to you, please speak with me at the beginning of the semester so that I can offer some helpful suggestions for achieving your goal. I am happy to discuss any of your grades with you, and if I have made a mistake, I will immediately correct it. Any formal grade disputes must be submitted in writing and within one week of receiving the grade.
 
-| **Assessments**                                                                                                    | **#** | **Points For Each** | **Total Points You Can Earn** |
-| ------------------------------------------------------------------------------------------------------------------ | ----- | ------------------- | ----------------------------- |
-| **🃏 Weekly PLAY**                                                                                                  | 11    | 2                   | 22                            |
-| **✍️ Weekly Reflection**                                                                                            | 12    | 2                   | 24                            |
-| **Choose Your Owns (CYOs)**                                                                                        | 5     | 1                   | 5                             |
-| **[CHI Papers Mission](missions/chi-papers.md)**<br>• **Part 1**<br>• **Part 2**<br>• **Part 3**                                         | 3     | 2<br>2<br>6         | 10                            |
-| **[Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md)**<br>• **Expert Review**<br>• **Usability Test**                   | 2     | 5                   | 10                            |
-| **[Accessibility Testing Mission](missions/accessibility-testing.md)**<br>• **Manual Inspection**<br>• **Automated Inspection**<br>• **Comparison** | 3     | 5                   | 15                            |
-| **Attendance/Participation**                                                                                        | 14    | 1                   | 14                            |
-| **Total Points**                                                                                                   |       |                     | **100**                       |
+| **Assessments**                                                                                                    | **#** | **Points For Each** | **Total Points You Can Earn** | **Due**                                                          |
+| ------------------------------------------------------------------------------------------------------------------ | ----- | ------------------- | ----------------------------- | ---------------------------------------------------------------- |
+| **🃏 Weekly PLAY**                                                                                                  | 11    | 2                   | 22                            | midnight before class, weekly                                    |
+| **✍️ Weekly Reflection**                                                                                            | 12    | 2                   | 24                            | midnight before class, weekly                                    |
+| **Choose Your Owns (CYOs)**                                                                                        | 5     | 1                   | 5                             | any time before the last class                                   |
+| **[CHI Papers Mission](missions/chi-papers.md)**<br>• **Part 1**<br>• **Part 2**<br>• **Part 3**                                         | 3     | 2<br>5<br>3         | 10                            | <br>Week 3 · Sep 15<br>Week 4 · Sep 22<br>Week 5 · Sep 29        |
+| **[Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md)**<br>• **Expert Review**<br>• **Usability Test**                   | 2     | 5                   | 10                            | <br>Weeks 7–8 · Oct 20 & 27<br>Week 9 · Nov 3                    |
+| **[Accessibility Testing Mission](missions/accessibility-testing.md)**<br>• **Manual Inspection**<br>• **Automated Inspection**<br>• **Comparison** | 3     | 5                   | 15                            | <br>Week 11 · Nov 17<br>Week 13 · Dec 1<br>Week 14 · Dec 8       |
+| **Attendance/Participation**                                                                                        | 14    | 1                   | 14                            | weekly                                                           |
+| **Total Points**                                                                                                    |       |                     | **100**                       |                                                                  |
 
 Final letter grades are assigned based on the percentage of total assessment points earned. To be fair to everyone, I establish clear standards and apply them consistently. Please understand that being *close* to a cutoff is not the same as making the cut (89.99 ≠ 90.00). It would be unethical and inequitable to make exceptions for some and not others.
 

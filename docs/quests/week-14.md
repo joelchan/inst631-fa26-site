@@ -11,7 +11,7 @@ read: true
 watch: true
 play: true
 reflection: none
-deadline:
+deadline: "[Accessibility Testing Mission](../missions/accessibility-testing.md) Part 3"
 tags:
   - quest
   - weekly-quest
@@ -49,6 +49,10 @@ The question to carry into class: *what did watching one person tell you that yo
 1. [How to use design thinking to create a happier life for yourself](https://ideas.ted.com/how-to-use-design-thinking-to-create-a-happier-life-for-yourself/) — TED Ideas post plus the TEDx talk, either or both. *"Be honest with yourself, and scribble notes (that you do not have to share with us!): which of the dysfunctional beliefs haunt you? What gravity problems are you experiencing? What are your three Odyssey plans?"*
 2. Your v2 counts as one of these prototypes, if you want it to.
 3. **After the course ends, actually keep using it.**
+
+## 📌 Deadline
+
+**[Accessibility Testing Mission](../missions/accessibility-testing.md) Part 3** (comparison) — by class time. This is the write-up of the Week 13 workshop, so it is the last thing due all term.
 
 ## 🥘 Potluck
 

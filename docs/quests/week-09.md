@@ -12,7 +12,7 @@ watch: true
 play: false
 reflection: standard
 compareanchor: mission
-deadline: "[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 4"
+deadline: "[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 3"
 tags:
   - quest
   - weekly-quest

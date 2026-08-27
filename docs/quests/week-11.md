@@ -31,7 +31,7 @@ tags:
 
 ## 📺 WATCH
 
-[How to track a manual evaluation](https://youtu.be/C770bSvGr_E?t=663) — a hands-on demo. Worth having open while you work.
+[How to track a manual evaluation](https://youtu.be/C770bSvGr_E?si=kvIJNnBzXoC7WiEL&t=1291) (~26 mins, from 21:30 to ~47:00) — a hands-on demo. Worth having open while you work. 
 
 ## 🃏 PLAY
 
