@@ -1,15 +1,15 @@
 # INST631 · Fundamentals of Human-Computer Interaction
 
 **Fall 2026 · University of Maryland · Dr. Joel Chan**
-Tuesdays, 6:00–8:45pm, HBK 0302H
+Tuesdays, 6:00–8:45pm, HBK 0302J
 
-An introduction to human-computer interaction for HCIM students. You will learn to see the designed world with a design eye, to evaluate interfaces as an expert and with real users, and to design for people who are not interchangeable.
+Principles of human-human and machine-machine communication as a basis for models of human-computer communication. Issues related in input/ output devices, conceptual models, levels of control, metaphor and personification, adaptability, and intensionality/extensionality.
 
 ## Where to go
 
 - **[Syllabus](syllabus.md)** — what the course is, how it's graded, what the policies are, and what to do if life gets in the way.
 - **[Schedule](schedule.md)** — all fourteen weeks at a glance: what happens before each class, and what happens in it.
-- **Quests** — a page per week with the exact readings, watches, and play instructions.
+- **Quests** — a page per week with the exact readings, watches, and play instructions. See Week 1's quest, for example!
 - **Missions** — the three bigger pieces of work: [CHI Papers Mission](missions/chi-papers.md), [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), and [Accessibility Testing Mission](missions/accessibility-testing.md).
 
 ## How the week works

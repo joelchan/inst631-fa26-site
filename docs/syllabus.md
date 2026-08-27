@@ -24,7 +24,7 @@ This course is an introduction to human-computer interaction for HCIM students. 
 
     - You can get [free writing assistance](#writing-center)?
 
-    - You can get [free mental health support](#emotional--mental-health-support)?
+    - You can get [free mental health support](#emotional-mental-health-support)?
 
     - You can get [accommodations for accessibility and disability](#students-with-disabilities)?
 
@@ -54,7 +54,7 @@ Erickson, T. & McDonald, D. W. (Eds., 2007). *HCI Remixed: Reflections on Works 
 
 ### General Course-Related Policies for Graduate Students
 
-I highly recommend that you review the University of Maryland's policies about graduate courses, as different institutions and fields have different expectations. For example, UMD has a policy in place against 'self-plagiarism' — what does it even mean to self-plagiarize, you ask? Well, [review the policies](#general-course-related-policies-for-graduate-students-1) and find out! UMD has a detailed explanation of [*academic integrity*](https://policies.umd.edu/academic-affairs/university-of-maryland-code-of-academic-integrity), as well, which will explain the policies and expectations that we are all bound by and held to.
+I highly recommend that you review the University of Maryland's policies about graduate courses, as different institutions and fields have different expectations. For example, UMD has a policy in place against 'self-plagiarism' — what does it even mean to self-plagiarize, you ask? Well, [review the policies](#general-course-related-policies-for-graduate-students_1) and find out! UMD has a detailed explanation of [*academic integrity*](https://policies.umd.edu/academic-affairs/university-of-maryland-code-of-academic-integrity), as well, which will explain the policies and expectations that we are all bound by and held to.
 
 ## Course Structure
 
