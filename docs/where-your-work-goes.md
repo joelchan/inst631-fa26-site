@@ -83,11 +83,7 @@ Whatever else you make still needs to be **reachable**. A Loom or Zoom recording
 
 CYOs are the "choose your own" quests: a play you invented, a talk you went to, a conversation with someone doing interesting HCI work, or one of the bonus readings and watches in the [Schedule](schedule.md). Do as many as you like — five of them count toward your grade.
 
-The condition on a CYO is that **you share it back**, so it goes in the shared CYO doc, which runs all term rather than resetting weekly.
-
-1. **Add a heading** at the bottom of the doc with your name and what you did.
-2. Write it up underneath — a few sentences and a link is plenty.
-3. **Copy the link to your heading** and paste it into the CYO assignment on ELMS.
+The condition on a CYO is that **you share it back**, and that's **exactly the reflection move**: heading with your name at the bottom, write underneath it, copy the link to your heading, paste it into ELMS. A few sentences and a link is plenty. The only thing that changes is which doc.
 
 Spotted something the rest of us would want to know about — a talk, an event, a tool, a thing you saw that stuck with you? **Put it in the same doc.** That isn't a CYO and doesn't need submitting. It's just useful.
 
