@@ -1,6 +1,10 @@
 # Where your work goes
 
-**Everything you hand in is a link.** You never upload a file. Your work lives somewhere the rest of us can reach it, and ELMS just points at it.
+This class runs as a shared learning commons: play-based, and co-created by all of us. So handing work in works a little differently here than you're probably used to!
+
+**Everyone can see everyone's.** We run stand-ups off the board and read each other's reflections in class. Missions are a lot more interesting when you can see how someone else took the same brief. It does mean writing a reflection knowing your classmates will read it. Posting your confusions and your messy, unfinished work where everyone can see them can feel scary: that's normal! We'll practice noticing that feeling and pushing through to play anyway, for maximum learning gains!
+
+**Which means ELMS is just a shell for accountability (aka credit aka grades).** A file uploaded to ELMS is visible to me and nobody else, which is the opposite of "everyone can see everyone's". So your work lives on our shared board and drive, and what you hand in on ELMS is a **link** to it. You never upload a file.
 
 | | lives on | you hand in | due |
 | --- | --- | --- | --- |
@@ -83,9 +87,9 @@ Whatever else you make still needs to be **reachable**. A Loom or Zoom recording
 
 CYOs are the "choose your own" quests: a play you invented, a talk you went to, a conversation with someone doing interesting HCI work, or one of the bonus readings and watches in the [Schedule](schedule.md). Do as many as you like — five of them count toward your grade.
 
-The condition on a CYO is that **you share it back**, and that's **exactly the reflection move**: heading with your name at the bottom, write underneath it, copy the link to your heading, paste it into ELMS. A few sentences and a link is plenty. The only thing that changes is which doc.
+The condition on a CYO is that **you share it back**. Same moves as a reflection: add a heading with your name, write underneath it, copy the link to your heading, and paste that into ELMS. The one difference is the doc — [a single running one](https://docs.google.com/document/d/1d_KF6FejDZuNCPuaCMKDvl5Kbl-fA4Mj6S_jllStcFk/edit?tab=t.0) for the whole term, rather than a fresh one each week.
 
-Spotted something the rest of us would want to know about — a talk, an event, a tool, a thing you saw that stuck with you? **Put it in the same doc.** That isn't a CYO and doesn't need submitting. It's just useful.
+Saw a talk, an event, a tool, or anything else the rest of us might want to know about, but didn't get a chance to CYO it? **Put it in the same doc, under the "Opportunities!" tab.**
 
 ---
 
@@ -99,11 +103,3 @@ Spotted something the rest of us would want to know about — a talk, an event, 
 The deadline is firm because I plan the session from your work, not because I want to catch anyone out.
 
 **If a folder or board won't let you in**, that's mine to fix and not yours. Email me, and submit into the comment box in the meantime.
-
----
-
-## Two things worth knowing
-
-**Everyone can see everyone's.** That's deliberate. We run stand-ups off the board and read each other's reflections in class. Missions are a lot more interesting when you can see how someone else took the same brief. It does mean writing a reflection knowing your classmates will read it. Say what you actually got stuck on anyway: that's the useful part, and everyone else is stuck on something too.
-
-**Links rather than uploads**, because your work needs to live somewhere the rest of us can reach it and build on it. A file uploaded to ELMS is visible to me and nobody else, which is the opposite of what this class is for. It also means your plays stay *images* — last year's were flattened into text by the tool they lived in, and a lot of good work stopped making sense.
