@@ -1,0 +1,3 @@
+/* The schedule is headings now, not a table, so it reflows on a phone and
+   a screen reader can jump week to week. Nothing here needs overriding —
+   keeping the file so there's an obvious place for future tweaks. */

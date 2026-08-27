@@ -1,0 +1,43 @@
+---
+type: Mission
+---
+
+Choose two full-length (10+ pages) research papers from CHI conference series (from any year!), on a single topic (e.g., do not choose one paper on olfactory devices and another paper on visualization). This works best if the topic is related to one of your driving interests - optimize for this rather than perceived ease of understanding. 
+
+Your job then will be to:
+1. Make a map of the knowledge/design space that these papers are part of, using a simplified "discourse graph" (of artifacts, design patterns, claims, evidence, and questions)
+2. Extend the map with your own ideas for new design patterns, unanswered questions or hypotheses to test in future work of interest to you. 
+
+This mission is a good way to get started on understanding HCI research - especially useful if you are planning on doing the thesis track! 
+## PREPARATION
+
+- To find CHI papers, go dig through the proceedings available [here](https://dl.acm.org/conference/chi/proceedings) (remember to look just at the last two years). You may have to be logged in via campus wifi or through the UMD library to get your free access.
+- even better: Install the UMD Reload Button Extension to your browser to easily access libraries, journals, papers, etc. that you should have access to: [https://lib.guides.umd.edu/reload-button](https://lib.guides.umd.edu/reload-button)
+
+## PART 1: _due Week 3 before class_
+
+- Find topics that are interesting to you: _skim_ some papers and see what catches your interest
+- then, pick 3-5 CHI proceedings papers from 2025 or 2026, all around the same topic
+- _Quick read_ them for what sorts of ideas (new designs, systems, empirical results, theories/models, etc.) they might contain of interest to you, and take messy notes about the same. Post them to ^todo-elms
+- FYI: This is just to keep you on track - you’ll get credit for doing it, but I won’t give feedback. If you want feedback, sign up for office hours - happy to chat with you about it!
+
+## PART 2: _due Week 4 before class_
+
+- Do an _in-depth read_ on **two** papers on the same topic (ideally you pick them from your set of 3-5, but you may discover others and choose to do those instead as you progress, which is totally fine!)
+- Make an initial map of the knowledge/design space that these papers are part of, using a simplified "discourse graph" (of artifacts, design patterns, claims, evidence, and questions)
+	- Your map can be digital (I recommend tldraw or Miro and will provide a template and example) or physical, as you like. 
+- Record and share a presentation (minimum 8 minutes) walking through your map. 
+- We'll have time in class to share
+
+## PART 3: _due Week 5 before class_
+
+- Extend the map with your own stuff! Propose new "nodes" (e.g., new ideas for new design patterns, unanswered questions or hypotheses to test in future work) of interest to you on said map.
+
+## RESOURCES
+
+- Courtney Ray’s ‘how to read a research paper’ slides: [https://docs.google.com/presentation/d/1KCybfjbW9zSSjWge44EqoJgbfcWalhVrsXR6I2d_jN8/edit?slide=id.g11dd3286a66_0_7#slide=id.g11dd3286a66_0_7](https://docs.google.com/presentation/d/1KCybfjbW9zSSjWge44EqoJgbfcWalhVrsXR6I2d_jN8/edit?slide=id.g11dd3286a66_0_7#slide=id.g11dd3286a66_0_7)
+- ^todo-dg-primer
+- Annotations from the American Association for the Advancement of Science - [explore what they do](https://www.scienceintheclassroom.org/research-papers). Pick a paper, and make sure you click the different ‘Learning Lens” options in the left-hand menu (otherwise, you won’t see any annotations!).
+- CHI programs, so you can look by topic/type of paper in a more user-friendly way than the proceedings:
+    - https://programs.sigchi.org/chi/2025/program/all
+    - https://programs.sigchi.org/chi/2026/program/all

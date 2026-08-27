@@ -1,0 +1,86 @@
+site_name: INST631 — Fundamentals of Human-Computer Interaction
+site_description: Fall 2026, University of Maryland. Dr. Joel Chan.
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: en
+  # Self-host everything: no Google Fonts request, so the page makes no
+  # external calls at all. Better for privacy, and for a slow connection.
+  font: false
+  features:
+    - navigation.instant
+    # Top-level sections become a navbar across the top of every page.
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - content.action.none
+    # Put the page outline in the left sidebar rather than a second right-hand
+    # column. The syllabus is one long page; a persistent outline of its
+    # fourteen weeks is the navigation.
+    - toc.integrate
+    - toc.follow
+  palette:
+    # Respect the reader's system setting, and let them override it.
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Match my system theme
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Syllabus: syllabus.md
+  - Schedule: schedule.md
+  - Where your work goes: where-your-work-goes.md
+  - Quests:
+      - Week 1 · Introduction to the course: quests/week-01.md
+      - Week 2 · What is HCI: quests/week-02.md
+      - Week 3 · Cognition: quests/week-03.md
+      - Week 4 · Emotion: quests/week-04.md
+      - Week 5 · Interfaces: quests/week-05.md
+      - Week 6 · Social: quests/week-06.md
+      - Week 7 · What is evaluation: quests/week-07.md
+      - Week 8 · Evaluating without users: quests/week-08.md
+      - Week 9 · Evaluating with users: quests/week-09.md
+      - Week 10 · Foundations of accessibility and the BAD session: quests/week-10.md
+      - Week 11 · Evaluating for accessibility: quests/week-11.md
+      - Week 12 · AI and HCI I: quests/week-12.md
+      - Week 13 · AI and HCI II: quests/week-13.md
+      - Week 14 · Wrap up: quests/week-14.md
+  - Missions:
+      - CHI Papers: missions/chi-papers.md
+      - Evaluations & Usability Testing: missions/evaluations-and-usability-testing.md
+      - Accessibility Testing: missions/accessibility-testing.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      permalink_title: Link to this section
+      # The syllabus demotes to one h1 at build time, so its weeks land at
+      # h4 — depth 4 is what puts them in the sidebar outline.
+      toc_depth: 4
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/course.css
+
+# No analytics, no trackers, no external fonts — the page a student loads
+# should not phone anywhere they did not ask it to.
+extra:
+  generator: false
