@@ -85,7 +85,7 @@ Whatever else you make still needs to be **reachable**. A Loom or Zoom recording
 
 ## Your CYOs → the shared CYO doc
 
-CYOs are the "choose your own" quests: a play you invented, a talk you went to, a conversation with someone doing interesting HCI work, or one of the bonus readings and watches in the [Schedule](schedule.md). Do as many as you like — five of them count toward your grade.
+CYOs are the "choose your own" quests: a play you invented, a talk you went to, a conversation with someone doing interesting HCI work, or one of the bonus readings and watches in the [Schedule](schedule.md). Do as many as you like — seven of them count toward your grade.
 
 The condition on a CYO is that **you share it back**. Same moves as a reflection: add a heading with your name, write underneath it, copy the link to your heading, and paste that into ELMS. The one difference is the doc — [a single running one](https://docs.google.com/document/d/1d_KF6FejDZuNCPuaCMKDvl5Kbl-fA4Mj6S_jllStcFk/edit?tab=t.0) for the whole term, rather than a fresh one each week.
 
