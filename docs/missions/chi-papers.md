@@ -20,7 +20,7 @@ This mission is a good way to get started on understanding HCI research - especi
 
 - Find topics that are interesting to you: _skim_ some papers and see what catches your interest
 - then, pick 3-5 CHI proceedings papers from 2025 or 2026, all around the same topic
-- _Quick read_ them for what sorts of ideas (new designs, systems, empirical results, theories/models, etc.) they might contain of interest to you, and take messy notes about the same. 
+- _Quick read_ them for what sorts of ideas (new designs, systems, empirical results, theories/models, etc.) they might contain of interest to you, and take messy notes about the same. Put them in the Google Doc section for Part 1.
 - FYI: This is just to keep you on track - you’ll get credit for doing it, but I won’t give feedback. If you want feedback, sign up for office hours - happy to chat with you about it!
 
 ## PART 2: _due Week 4 before class_
@@ -29,7 +29,7 @@ This mission is a good way to get started on understanding HCI research - especi
 - Make an initial map of the knowledge/design space that these papers are part of, using a simplified "discourse graph" (of artifacts, design patterns, claims, evidence, and questions)
 	- Your map can be digital (I recommend tldraw or Miro and will provide a template and example) or physical, as you like. 
 - Record and share a presentation (minimum 8 minutes) walking through your map (recommend Loom or just a Zoom recording for ease of sharing). 
-- Put / link to a snapshot of the map plus your walkthrough video in the Google Doc section for Part 3
+- Put / link to a snapshot of the map plus your walkthrough video in the Google Doc section for Part 2
 - We'll have time in class to share
 
 ## PART 3: _due Week 5 before class_

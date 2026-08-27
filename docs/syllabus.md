@@ -42,11 +42,11 @@ This course is an introduction to human-computer interaction for HCIM students. 
 
 Rogers, Y., Sharp, H., and Preece, J. (2019). *Interaction design: Beyond human-computer interaction* (5th edition). John Wiley and Sons. *(available as an ebook at no cost, via the Course Reserves Link on ELMS)* 
 
-Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research methods in human-computer interaction* (2nd edition). Elsevier/Morgan Kaufmann Publishers. *(available as an ebook at no cost, via the Course Reserves Link on ELMS)* 
-
 Lazar, J., Goldstein, D., & Taylor, A. (2015). *Ensuring digital accessibility through process and policy*. Elsevier/Morgan Kaufmann Publishers. *(available as an ebook at no cost, via the Course Reserves Link on ELMS)*
 
 ### Recommended / Related 
+
+Lazar, J., Feng, J. H., & Hochheiser, H. (2017). *Research methods in human-computer interaction* (2nd edition). Elsevier/Morgan Kaufmann Publishers. *(available as an ebook at no cost, via the Course Reserves Link on ELMS)* 
 
 Costanza-Chock, S. (2020). *Design Justice: Community-Led Practices to Build the Worlds We Need*. MIT Press. *(available as an ebook at no cost, via the Course Reserves Link on ELMS)*
 
@@ -126,8 +126,6 @@ We will provide access to the automated accessibility testing tool, free of char
 #### CYOs (Choose Your Own)
 
 Choose your own (CYO) quests are available for you to... choose your own quests that help you explore the fundamentals of HCI, as you understand it! These could be your own plays, a conversation with a cool HCI person, or your notes from a cool talk you attended, or a bonus reading or watch listed in our [Schedule](schedule.md). The choice is *literally* yours :) You choose what to do, with a requirement to share back with everyone in our shared doc. Please also share any opportunities (events, talks, cool things you saw that others might find interesting), in our shared doc! Do as many CYOs as you like, but we'll grade only 5 of them.
-
-→ CYOs go in the shared CYO doc, then you link your heading on ELMS — see [Where your work goes](where-your-work-goes.md).
 ### Grading Structure
 
 Your grade is determined by your performance on the learning assessments in the course and is assigned individually (and is not "curved"). In particular, each quest, mission, etc. is worth points — and at the end of the semester, I add up all the points to determine your grade.

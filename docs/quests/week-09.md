@@ -38,7 +38,7 @@ Usability testing, a step-by-step guide ([35 min](https://www.youtube.com/watch?
 
 ## 📌 Deadline
 
-**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 2** (expert review) — due by class time.
+**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 3** (usability test) — due by class time.
 
 ## ✍️ Reflection
 

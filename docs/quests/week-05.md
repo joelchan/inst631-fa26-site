@@ -49,7 +49,7 @@ As before: set a timer for **1 hour** and submit what you have when the timer go
 
 ## 📌 Deadline
 
-**[CHI Papers Mission](../missions/chi-papers.md) Part 2** — due by class time.
+**[CHI Papers Mission](../missions/chi-papers.md) Part 3** — due by class time.
 
 ## ✍️ Reflection
 

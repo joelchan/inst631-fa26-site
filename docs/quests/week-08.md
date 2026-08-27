@@ -41,7 +41,7 @@ Return to one of the designs you complained about in prior weeks (or come up wit
 
 ## 📌 Deadline
 
-**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 1** (expert review prep) — due by class time.
+**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 2** (expert review) — due by class time.
 
 ## ✍️ Reflection
 
