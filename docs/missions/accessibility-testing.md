@@ -9,7 +9,7 @@ Pick a website to evaluate, and a screen reader to use.
 
 NOTE: You're using the screen reader as **an instrument that exposes the page's underlying structure** — what the machine can and can't work out about this interface. You're *not* simulating the experience of being a screen reader user, and an hour with VoiceOver doesn't tell you what it's like to rely on one. Daily users are fast, run speech far quicker than you'll be able to follow, and have workarounds you don't. Keep your findings about the *page*.
 
-For submission purposes, make a Google Doc with your name on it in this shared folder: https://drive.google.com/drive/u/3/folders/183KQ09Xv6LIcLvcaBb7ud2ogt84mmgSP, then make 3 sections (one for each part below). You'll link to these sections in your submission on ELMS for credit.
+For submission purposes, make a Google Doc with your name on it in this shared folder: https://drive.google.com/drive/folders/183KQ09Xv6LIcLvcaBb7ud2ogt84mmgSP, then make 3 sections (one for each part below). You'll link to these sections in your submission on ELMS for credit.
 - *if you think you might want to put more stuff in our drive for this mission, make a folder with your name on it instead!*
 ## Part 1: Manual Testing — _due Week 11 before class_
 
