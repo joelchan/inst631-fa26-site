@@ -39,7 +39,7 @@ Everything to the right of the marked line is yours to use.
 
 ![Copying a link to a frame in Miro](assets/miro-frame-copy.gif)
 
-**Why a named frame** rather than dropping things loose. It's what gives you a link at all. It puts you in the board's frame list, so I can find your work during stand-ups. And it stops thirty-five people's plays landing on top of each other.
+**Why a named frame** rather than dropping things loose. It's what gives you a link at all. It puts you in the board's frame list, so I can find your work during stand-ups. And it stops thirty people's plays landing on top of each other.
 
 Your play is meant to be **messy and unfinished**. Photograph a paper sketch and drop the photo in — that counts, and most weeks it's the point.
 
