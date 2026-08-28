@@ -83,7 +83,7 @@ Our in-person class time will be used for discussions, collaborative work, and o
 
 → **[Where your work goes](where-your-work-goes.md)** has the step-by-step for these and for the missions and CYOs below, including how to get the link out of Miro and Google Docs, and what to do if something breaks at eleven at night.
 
-The reflection itself is — **250–500 words**, due midnight the night before class, so I can use your responses to plan the session. It is not a summary. Three short paragraphs:
+The reflection is due midnight the night before class, so I can use your responses to plan the session. It is not a summary. **There's no word count and it doesn't need to be polished** — bullet points and half-finished sentences are welcome, as long as I can tell which of the three parts I'm reading:
 
 - **Snag** — one specific place you got stuck, reread, or bounced off. Quote it.
 - **Compare** — your PLAY held up against the READ or WATCH: a *"huh, that's funny/interesting/weird/cool"* that connects an idea from the week to something concrete you did. On weeks with no separate PLAY, each quest page names what to use instead.
@@ -100,7 +100,7 @@ Missions are larger projects. There will be three of them.
 
 ##### Mission #1: [CHI Papers Mission](missions/chi-papers.md)
 
-Choose two full-length (10+ pages) research papers from CHI conference series (from any year!), on a single topic (e.g., do not choose one paper on olfactory devices and another paper on visualization). This works best if the topic is related to one of your driving interests - optimize for this rather than perceived ease of understanding. 
+Choose two full-length (10+ pages) research papers from the CHI conference series, on a single topic (e.g., do not choose one paper on olfactory devices and another paper on visualization): **one from CHI 2026**, and **one from any other year you like**. This works best if the topic is related to one of your driving interests - optimize for this rather than perceived ease of understanding. 
 
 Your job then will be to
 
