@@ -29,7 +29,7 @@ This mission is a good way to get started on understanding HCI research - especi
 	- A fun way to find the second one: **follow the references** out of your 2026 paper. What was it building on? Papers cite their ancestors, so the bibliography is a map backwards — and going ten or twenty years back can be genuinely startling, either because the problem is unrecognisable or because it's identical
 - Make an initial map of the knowledge/design space that these papers are part of, using a simplified "discourse graph" (of artifacts, design patterns, claims, evidence, and questions)
 	- Your map can be digital (I recommend tldraw or Miro and will provide a template and example) or physical, as you like. 
-- Record and share a presentation (minimum 8 minutes) walking through your map (recommend Loom or just a Zoom recording for ease of sharing). 
+- Record and share a **3–5 minute** presentation walking through your map (recommend Loom or just a Zoom recording for ease of sharing). 
 - Put / link to a snapshot of the map plus your walkthrough video in the Google Doc section for Part 2
 - We'll have time in class to share
 

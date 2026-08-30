@@ -41,6 +41,7 @@ This course is an introduction to human-computer interaction for HCIM students. 
 ### Required  — all available through ELMS electronic resources!
 
 Rogers, Y., Sharp, H., and Preece, J. (2019). *Interaction design: Beyond human-computer interaction* (5th edition). John Wiley and Sons. *(available as an ebook at no cost, via the Course Reserves Link on ELMS)* 
+- The book website also has a ton of great resources (free), including case studies
 
 Lazar, J., Goldstein, D., & Taylor, A. (2015). *Ensuring digital accessibility through process and policy*. Elsevier/Morgan Kaufmann Publishers. *(available as an ebook at no cost, via the Course Reserves Link on ELMS)*
 
@@ -107,7 +108,7 @@ Your job then will be to
 1. Make a map of the knowledge/design space that these papers are part of, using a simplified "discourse graph" (of artifacts, design patterns, claims, evidence, and questions), and then
 2. Extend the map with your own ideas for new design patterns, unanswered questions or hypotheses to test in future work of interest to you. 
 
-Your map can be digital (I recommend tldraw or Miro and will provide a template and example) or physical, as you like. Record and share a presentation (minimum 8 minutes) walking through your map. 
+Your map can be digital (I recommend tldraw or Miro and will provide a template and example) or physical, as you like. Record and share a **3–5 minute** presentation walking through your map. 
 
 (You can access CHI papers through the ACM Digital Library ([https://dl.acm.org/](https://dl.acm.org/)). UMD has a full license to use the ACM digital library, so if you are not on a campus IP address, you would just need to login first at [https://www.lib.umd.edu/](https://www.lib.umd.edu/).)
 
