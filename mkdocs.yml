@@ -43,6 +43,7 @@ nav:
   - Syllabus: syllabus.md
   - Schedule: schedule.md
   - Where your work goes: where-your-work-goes.md
+  - Discourse graph primer: discourse-graph-primer.md
   - Quests:
       - Week 1 · Introduction to the course: quests/week-01.md
       - Week 2 · What is HCI: quests/week-02.md
