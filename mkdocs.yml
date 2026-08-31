@@ -43,7 +43,8 @@ nav:
   - Syllabus: syllabus.md
   - Schedule: schedule.md
   - Where your work goes: where-your-work-goes.md
-  - Discourse graph primer: discourse-graph-primer.md
+  # - Discourse graph primer: discourse-graph-primer.md   # re-enable when the page exists;
+  #   nav entries for missing files abort the site repo's --strict build
   - Quests:
       - Week 1 · Introduction to the course: quests/week-01.md
       - Week 2 · What is HCI: quests/week-02.md
