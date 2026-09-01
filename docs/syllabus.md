@@ -233,7 +233,7 @@ If you are struggling with mental health or just need someone to talk to, visit 
 
 ### Basic Needs Security
 
-If you have difficulty affording groceries or accessing sufficient food to eat every day, or lack a safe and stable place to live and believe this may affect your performance in this course, please visit https://studentaffairs.umd.edu/node/5406 for information about resources the campus offers you, and let me know if I can help in any way.
+If you have difficulty affording groceries or accessing sufficient food to eat every day, or lack a safe and stable place to live and believe this may affect your performance in this course, please visit [UMD's basic needs resources](https://studentaffairs.umd.edu/node/5406) for information about resources the campus offers you, and let me know if I can help in any way.
 
 ### General Course-Related Policies for Graduate Students
 
