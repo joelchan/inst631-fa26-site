@@ -6,7 +6,7 @@ date: 2026-10-06
 part: 1
 partname: Foundations
 topic: Social
-format: async
+format: guest lecture
 read: true
 watch: true
 play: true
@@ -19,7 +19,7 @@ tags:
 
 # Week 6 — Social
 
-**Tue Oct 6** · Part 1: Foundations · **async** · [Schedule](../schedule.md)
+**Tue Oct 6** · Part 1: Foundations · **guest lecture: [Yimin Xiao](https://yiminxiao.com/)** · [Schedule](../schedule.md)
 
 ## 📚 READ
 
@@ -32,7 +32,7 @@ Bonus / CYO:
 
 Daniel Cook (Spry Fox), **[Game Design Patterns for Building Friendships](https://www.youtube.com/watch?v=voz6S7ryWC0)** — GDC 2018, **63 min**.
 
-This is a bit longer than our other watch videos, but it's worth it! This is a design bible gold mine! I also feel a bit less bad about it bc we're async this week!
+This is a bit longer than our other watch videos, but it's worth it! This is a design bible gold mine!
 
 ## 🃏 PLAY
 

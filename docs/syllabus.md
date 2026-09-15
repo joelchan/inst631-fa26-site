@@ -187,7 +187,7 @@ The written reflections must be completed on ELMS by midnight the day before cla
 
 **Weekly quests will not be accepted late.** They're time-constrained by design — I read your reflections to plan the class you're about to sit in, so a reflection that arrives afterward can't do its job. But! As I'll share in class, one part of our class contract is that we're human! I get it. Life happens. So instead of a late policy, there's a freebie policy: each quest is worth 4 points, and I drop your two lowest quest scores. You don't need to tell me why, ask permission, or apologize. Get sick, have a week, miss two — it costs you nothing. That's what the drops are for, so spend them when you need them rather than saving them.
 
-*Two exceptions, both **asynchronous weeks (Weeks 6 and 12)**, where there's no class meeting. Those reflections are the only way I know how the week landed for you, so they can't be dropped.*
+*One exception, the **asynchronous week (Week 12)**, where there's no class meeting. That reflection is the only way I know how the week landed for you, so it can't be dropped.*
 
 **Missions can be handed in late**, on two tiers. Within 24 hours of the deadline, you lose 20% of that part's points. After that and within a week, 60%. Past a week, come talk to me — that's a conversation, not a formula. Penalties apply to each part separately, not to the mission as a whole. And if you're past the point where the percentage matters, **submit it anyway**: I'd rather see the work, and an unsubmitted mission is a different conversation from a late one.
 

@@ -87,9 +87,11 @@
     **Deadline (by class time): [CHI Papers Mission](missions/chi-papers.md), Part 3**
 
 
-### Week 6 · Tue Oct 6 · Social — **async**
+### Week 6 · Tue Oct 6 · Social — **[Guest Lecture: INFO PhD Candidate Yimin Xiao]**
 
 *Aha! People are plural! How does that change what/how we design?*
+
+Joel is away, but you'll get to hear from [Yimin Xiao](https://yiminxiao.com/), an awesome INFO PhD Candidate who studies social computing!
 
 → **[The full quests for this week](quests/week-06.md)**
 
@@ -97,7 +99,7 @@
 
     📚 **READ** — ID 5 - Social Interaction (29pp). *CYO:* Grudin, J. (1988), *Why CSCW applications fail* (9pp, [doi:10.1145/62266.62273](https://doi.org/10.1145/62266.62273))
 
-    📺 **WATCH** — Daniel Cook (Spry Fox), *Game Design Patterns for Building Friendships* ([63 min, GDC 2018](https://www.youtube.com/watch?v=voz6S7ryWC0)) — longer than usual, and affordable because there's no meeting. Written version, free and skimmable: [Project Horseshoe 2016](https://www.projecthorseshoe.com/reports/featured/ph16r4.htm)
+    📺 **WATCH** — Daniel Cook (Spry Fox), *Game Design Patterns for Building Friendships* ([63 min, GDC 2018](https://www.youtube.com/watch?v=voz6S7ryWC0)) — longer than usual, and worth it. Written version, free and skimmable: [Project Horseshoe 2016](https://www.projecthorseshoe.com/reports/featured/ph16r4.htm)
 
     🃏 **PLAY** — **three that worked, one that didn't.** Three moments where a social interaction went well (any medium — a hallway conversation counts) and one **technology-mediated** moment where it didn't. Use the chapter's concepts to try to describe what's going on, and design at least one fix for the bad one
 
