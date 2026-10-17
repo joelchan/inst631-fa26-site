@@ -11,7 +11,7 @@ read: true
 watch: true
 play: true
 reflection: standard
-deadline: "[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 2"
+deadline: "[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 1"
 tags:
   - quest
   - weekly-quest
@@ -41,7 +41,9 @@ Return to one of the designs you complained about in prior weeks (or come up wit
 
 ## 📌 Deadline
 
-**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 2** (expert review) — due by class time.
+**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 1** (the interface, its users, and their tasks) — due by class time. You'll choose your heuristic set after this week's session, for Part 2.
+
+While you're at it, **start lining up five people** for the usability test (Part 3, due Week 11). Finding them is the slow part.
 
 ## ✍️ Reflection
 

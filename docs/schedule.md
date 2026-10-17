@@ -124,7 +124,7 @@ Joel is away, but you'll get to hear from [Yimin Xiao](https://yiminxiao.com/), 
 
     Weekly reflection
 
-    **Deadline (by class time): [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), expert review prep**
+    **No mission due.** The mission prep is due next week
 
 
 ### Week 8 · Tue Oct 27 · Evaluating without users — heuristics and inspection
@@ -141,7 +141,7 @@ Joel is away, but you'll get to hear from [Yimin Xiao](https://yiminxiao.com/), 
 
     Weekly reflection
 
-    **Deadline (by class time): [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), expert review**
+    **Deadline (by class time): [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), prep.** And start lining up five people for the usability test
 
 
 ### Week 9 · Tue Nov 3 · Evaluating with users — usability testing
@@ -154,11 +154,11 @@ Joel is away, but you'll get to hear from [Yimin Xiao](https://yiminxiao.com/), 
 
     📺 **WATCH** — usability testing, a step-by-step guide (~35 min)
 
-    🃏 **NO PLAY** — I figure the expert reviews and usability testing will be keeping you pretty busy!
+    🃏 **NO PLAY** — I figure the expert review will be keeping you pretty busy, and the usability test is starting up!
 
     Weekly reflection
 
-    **Deadline (by class time): [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), usability test**
+    **Deadline (by class time): [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), expert review**
 
 
 ## PART 3: INCLUSIVE DESIGN PRIMER
@@ -194,7 +194,7 @@ Joel is away, but you'll get to hear from [Yimin Xiao](https://yiminxiao.com/), 
 
     Weekly reflection
 
-    **Deadline (by class time): [Accessibility Testing Mission](missions/accessibility-testing.md), manual inspection**
+    **Deadline (by class time): [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), usability test**
 
 
 ## PART 4: AI AND THE FUTURE OF HCI
@@ -214,6 +214,8 @@ Joel is away, but you'll get to hear from [Yimin Xiao](https://yiminxiao.com/), 
     🔧 **SETUP** — get a working AI build tool sorted (Websim, Claude Artifacts, v0, Bolt — it just has to give you a link someone else can open). Bring it Tuesday whether or not it works; we finish the job in the room
 
     Weekly reflection
+
+    **Deadline (by class time): [Accessibility Testing Mission](missions/accessibility-testing.md), manual inspection**
 
     *CYO: add Xu (2026), UX 3.0 (6pp, [doi:10.1145/3794787](https://doi.org/10.1145/3794787))*
 

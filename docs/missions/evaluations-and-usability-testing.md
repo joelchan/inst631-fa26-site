@@ -3,9 +3,9 @@ You will be asked to do two forms of usability evaluation: 1) doing a usability 
 For submission purposes, make a Google Doc with your name on it in this shared folder: https://drive.google.com/drive/folders/17Atan80gVTIDuGmNKLD3Q2rk1M8q8sAH, then make 3 sections (one for each part below). You'll link to these sections in your submission on ELMS for credit.
 - *if you think you might want to put more stuff in our drive for this mission, make a folder with your name on it instead!*
 
-# Part 1: Prepare for the Expert Review — _due Week 7 before class_
+# Part 1: The interface, its users, and their tasks — _due Week 8 before class_
 
-Prepare for your expert review. In your doc, describe: 
+Get to know what you're evaluating. Both evaluations build on this: the expert review in Part 2 and the usability test in Part 3. In your doc, describe: 
 
 **1:** What interface did you choose to evaluate? Why did you choose to evaluate it? What are specific aspects of the interface that you hope to learn more about?  
 
@@ -19,20 +19,25 @@ Prepare for your expert review. In your doc, describe:
 !!! note "Do NOT include a task list here, as that is not what the question is asking. A task list item is something like: "Book a train on Amtrak". But that is actually a complex task experience - booking the train might be the goal, but getting the right time leaving and returning, how many people, any elderly discounts? bringing a bike? So a list format is actually missing a TON of information - instead, write common tasks with all the richness and details and complexities!"
 
 
-**4:** Which set of heuristics will you use for the heuristic evaluation, and why did you choose those?
+!!! tip "Start lining up your five usability-test users now"
+
+    Part 3 needs five people, and finding them is the slow part. You don't need to know how to run a test to ask people, so start asking now, and save the sessions for after Week 9.
+
+
+## Part 2: Conduct the Expert Review — _due Week 9 before class_
+
+Now, conduct the expert review, building upon the preparation you did for Part 1 and the heuristics we worked with in Week 8.
+
+**First:** which set of heuristics did you use, and why did you choose that set?
 
 !!! note "e.g. Shneiderman’s 8 golden rules, Nielsen’s usability heuristics, etc."
 
-
-## Part 2: Conduct the Expert Review — _due Week 8 before class_
-
-Now, conduct the expert review, building upon the preparation you did last week. 
 
 From the results of the expert review, what interface problems did you discover? What suggestions do you have to improve each of these problems? Be specific as to which heuristic helped you discover the needed improvement.
 !!! note "You MUST include three to five screen shots of existing problems, and you MUST include screen shots or wireframe sketches of possible improvements, and these screen shots or drawings must include “call-outs” highlighting where the improvements are located. Think of it as “before-and-after.”. You are welcome to attach a pdf or link to Figma or whatever - just make sure everyone has access! "
 
 
-## Part 3: Usability testing — _due Week 9 before class_
+## Part 3: Usability testing — _due Week 11 before class_
 
 Usability testing does NOT need to be remote, but DOES need to be captured (e.g., screencapture, audio capture). So use some kind of screen recording (e.g., Zoom with screenshare) or video recording (handheld phone camera, or on tripod overhead) to capture that data, even if you’re sitting right next to your user! 
 

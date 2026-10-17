@@ -11,7 +11,7 @@ NOTE: You're using the screen reader as **an instrument that exposes the page's 
 
 For submission purposes, make a Google Doc with your name on it in this shared folder: https://drive.google.com/drive/folders/183KQ09Xv6LIcLvcaBb7ud2ogt84mmgSP, then make 3 sections (one for each part below). You'll link to these sections in your submission on ELMS for credit.
 - *if you think you might want to put more stuff in our drive for this mission, make a folder with your name on it instead!*
-## Part 1: Manual Testing — _due Week 11 before class_
+## Part 1: Manual Testing — _due Week 12 before class_
 
 Identify 4-10 WCAG violations, and describe them. Take screenshots of the webpage/HTML code, if relevant, to help describe each violation. Explain which guideline is being violated, and how you can tell. 
 

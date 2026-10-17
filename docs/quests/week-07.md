@@ -11,7 +11,7 @@ read: true
 watch: true
 play: true
 reflection: standard
-deadline: "[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 1"
+deadline:
 tags:
   - quest
   - weekly-quest
@@ -42,7 +42,7 @@ Post your six hot takes (somehow mark the one you chose to spec a study for), an
 
 ## 📌 Deadline
 
-**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 1** (expert review prep) — due by class time.
+**No mission due this week.** The [Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) prep (Part 1: the interface, its users, and their tasks) is due next week. We'll get it started together in class.
 
 ## ✍️ Reflection
 

@@ -12,7 +12,7 @@ watch: true
 play: false
 reflection: standard
 compareanchor: mission
-deadline: "[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 3"
+deadline: "[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 2"
 tags:
   - quest
   - weekly-quest
@@ -34,11 +34,13 @@ Usability testing, a step-by-step guide ([35 min](https://www.youtube.com/watch?
 
 ## 🃏 NO PLAY
 
-*I figure the expert reviews and usability testing will be keeping you pretty busy!*
+*I figure the expert review will be keeping you pretty busy, and the usability test is starting up!*
 
 ## 📌 Deadline
 
-**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 3** (usability test) — due by class time.
+**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 2** (expert review) — due by class time.
+
+The usability test (Part 3) is due in Week 11. We'll pilot task lists on each other in class this week, so bring a draft of yours.
 
 ## ✍️ Reflection
 

@@ -13,7 +13,7 @@ play: true
 playvenue: in-class
 reflection: standard
 compareanchor: mission
-deadline: "[Accessibility Testing Mission](../missions/accessibility-testing.md) Part 1"
+deadline: "[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 3"
 tags:
   - quest
   - weekly-quest
@@ -40,7 +40,7 @@ tags:
 
 !!! tip "Nothing to do before class for this one"
 
-    Your manual inspection is due at the start of class, so this week's play is the studio block of the session instead of another hour at home. **Come with the interface open** and we'll work on it together, with me circulating for mission check-ins while you do.
+    Your usability test is due at the start of class, so this week's play is the studio block of the session instead of another hour at home. **Come with the interface open** and we'll work on it together, with me circulating for mission check-ins while you do.
 
 
 Take **the interface you evaluated for the [Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md)** — you know it better than anyone at this point — and try to make it more accessible! 
@@ -66,7 +66,9 @@ Take **the interface you evaluated for the [Evaluations and Usability Testing Mi
 
 ## 📌 Deadline
 
-**[Accessibility Testing Mission](../missions/accessibility-testing.md) Part 1** (manual inspection) — due by class time.
+**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 3** (usability test) — due by class time.
+
+The [Accessibility Testing Mission](../missions/accessibility-testing.md) manual inspection (Part 1) is due next week, so this session is your chance to bring questions about it.
 
 ## ✍️ Reflection
 
@@ -74,7 +76,7 @@ Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word coun
 
 **Snag.** One specific place you got stuck, reread, or bounced off. Quote the sentence, or give the page number or timestamp. If you feel inspired, try to articulate what the snag is, but even the quote/sentence/timestamp alone is fine. *"I didn't really get ID 1"* is too vague to be a snag; better would be something like *"I couldn't understand Norman's distinction between real and perceived affordances (ID 1, p. 30)"*.
 
-**Compare.** This week's PLAY happens in class, so use the manual inspection you've been working on instead (the [Accessibility Testing Mission](../missions/accessibility-testing.md), due at class time tomorrow). Reflect on it in relation to the READ or WATCH, and try to identify a *"huh. that's funny/interesting/weird/cool"* or *"ahhh i see/get it now"* reaction that connects one idea (e.g., a concept, a design heuristic, or something else) with something concrete in what you did (process or product).
+**Compare.** This week's PLAY happens in class, so use the manual inspection you've been working on instead (the [Accessibility Testing Mission](../missions/accessibility-testing.md), due at class time next week). Reflect on it in relation to the READ or WATCH, and try to identify a *"huh. that's funny/interesting/weird/cool"* or *"ahhh i see/get it now"* reaction that connects one idea (e.g., a concept, a design heuristic, or something else) with something concrete in what you did (process or product).
 
 **Ask.** One question you *cannot* answer from this week's materials and think is worth class time.
 

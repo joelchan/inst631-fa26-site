@@ -119,7 +119,7 @@ You will be asked to do two forms of usability evaluation:
 1. An **expert review** on an interface utilizing a set of heuristics (e.g. Shneiderman's 8 Golden Rules of Interface Design), and 
 2. A **usability test** involving 5 users (any 5 users) attempting tasks testing the same interface. You will need to report on the results of each. 
 
-It runs in **three graded parts**, like the other two missions: a short prep step in Week 7, then the review in Week 8 and the test in Week 9.
+It runs in **three graded parts**, like the other two missions: a short prep step in Week 8, then the review in Week 9 and the test in Week 11. Each part is due the week *after* we cover its method in class, and the test gets two weeks because finding five people takes time.
 ##### Mission #3: Manual & Automated [Accessibility Testing Mission](missions/accessibility-testing.md) 
 
 You will be asked to do two forms of accessibility evaluation:
@@ -146,8 +146,8 @@ If earning a particular grade is important to you, please speak with me at the b
 | **✍️ Weekly Reflection**                                                                                                    | 12    | 2                   | 24                            | midnight before class, weekly                              |
 | **Choose Your Owns (CYOs)**                                                                                                | 7     | 1                   | 7                             | any time before the last class                             |
 | **[CHI Papers Mission](missions/chi-papers.md)**<br>• **Part 1** — skim<br>• **Part 2** — map & walkthrough<br>• **Part 3** — extend             | 3     | 2<br>5<br>4         | 11                            | <br>Week 3 · Sep 15<br>Week 4 · Sep 22<br>Week 5 · Sep 29  |
-| **[Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md)**<br>• **Part 1** — prep<br>• **Part 2** — expert review<br>• **Part 3** — usability test | 3     | 2<br>4<br>5         | 11                            | <br>Week 7 · Oct 20<br>Week 8 · Oct 27<br>Week 9 · Nov 3   |
-| **[Accessibility Testing Mission](missions/accessibility-testing.md)**<br>• **Part 1** — manual<br>• **Part 2** — automated<br>• **Part 3** — comparison     | 3     | 5<br>3<br>3         | 11                            | <br>Week 11 · Nov 17<br>Week 13 · Dec 1<br>Week 14 · Dec 8 |
+| **[Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md)**<br>• **Part 1** — prep<br>• **Part 2** — expert review<br>• **Part 3** — usability test | 3     | 2<br>4<br>5         | 11                            | <br>Week 8 · Oct 27<br>Week 9 · Nov 3<br>Week 11 · Nov 17   |
+| **[Accessibility Testing Mission](missions/accessibility-testing.md)**<br>• **Part 1** — manual<br>• **Part 2** — automated<br>• **Part 3** — comparison     | 3     | 5<br>3<br>3         | 11                            | <br>Week 12 · Nov 24<br>Week 13 · Dec 1<br>Week 14 · Dec 8 |
 | **Attendance/Participation**                                                                                                | 14    | 1                   | 14                            | weekly                                                     |
 | **Total Points**                                                                                                            |       |                     | **100**                       |                                                            |
 
@@ -191,7 +191,7 @@ The written reflections must be completed on ELMS by midnight the day before cla
 
 **Missions can be handed in late**, on two tiers. Within 24 hours of the deadline, you lose 20% of that part's points. After that and within a week, 60%. Past a week, come talk to me — that's a conversation, not a formula. Penalties apply to each part separately, not to the mission as a whole. And if you're past the point where the percentage matters, **submit it anyway**: I'd rather see the work, and an unsubmitted mission is a different conversation from a late one.
 
-**One thing the percentages don't capture.** Missions are due at class time because we often use them in class for our learning together. If your automated inspection isn't in by the start of Week 13, you can't take part in the comparison workshop — and that workshop is the mission's third part! Being a day late on that one costs you far more than the 20% - it propagates to downstream learning. The same goes, less sharply, for the expert review before we discuss it in Week 7 and the manual inspection before the Week 11 check-ins.
+**One thing the percentages don't capture.** Missions are due at class time because we often use them in class for our learning together. If your automated inspection isn't in by the start of Week 13, you can't take part in the comparison workshop — and that workshop is the mission's third part! Being a day late on that one costs you far more than the 20% - it propagates to downstream learning. The same goes, less sharply, for the expert review, which Week 9's usability-test prep builds on.
 
 *And again, we're human, so! If you have a health or family emergency, let me know — we'll talk over your options and figure things out!*
 ### Communication

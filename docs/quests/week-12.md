@@ -11,7 +11,7 @@ read: true
 watch: true
 play: true
 reflection: standard
-deadline:
+deadline: "[Accessibility Testing Mission](../missions/accessibility-testing.md) Part 1"
 tags:
   - quest
   - weekly-quest
@@ -74,6 +74,10 @@ Worth knowing about [Websim](https://websim.com/blog/make-ai-apps): whoever you 
 
 
 **If you can't get anything working, don't quietly give up — bring it to class Tuesday and we'll sort it out together.** We'll spend the last part of the session making sure everyone leaves with a link that opens, because next week is a build day and a dead free tier discovered at 6pm is a lost evening.
+
+## 📌 Deadline
+
+**[Accessibility Testing Mission](../missions/accessibility-testing.md) Part 1** (manual inspection) — due by class time.
 
 ## ✍️ Reflection
 
