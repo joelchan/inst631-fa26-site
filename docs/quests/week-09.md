@@ -40,6 +40,10 @@ Usability testing, a step-by-step guide ([35 min](https://www.youtube.com/watch?
 
 The usability test (Part 3) is due in Week 11. We'll pilot task lists on each other in class this week, so bring a draft of yours.
 
+## 📝 Extra notes
+
+A bunch of you asked what to do when your expert review and your usability test disagree, so I wrote up some thoughts: [When expert review and usability testing disagree](../notes/expert-review-vs-usability-testing.md).
+
 ## ✍️ Reflection
 
 Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.

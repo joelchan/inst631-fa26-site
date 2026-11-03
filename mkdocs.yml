@@ -63,6 +63,8 @@ nav:
       - CHI Papers: missions/chi-papers.md
       - Evaluations & Usability Testing: missions/evaluations-and-usability-testing.md
       - Accessibility Testing: missions/accessibility-testing.md
+  - Extra notes:
+      - When expert review and usability testing disagree: notes/expert-review-vs-usability-testing.md
 
 markdown_extensions:
   - admonition

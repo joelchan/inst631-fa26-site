@@ -11,4 +11,5 @@ This site houses the following documents:
 - **[Schedule](schedule.md)**
 - **Quests**: one page per week that lists readings, watches, and play instructions. See Week 1's quest, for example!
 - **Missions**: one page that describes each of the three missions in the course: [CHI Papers Mission](missions/chi-papers.md), [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), and [Accessibility Testing Mission](missions/accessibility-testing.md).
+- **Extra notes**: short write-ups on questions that come up in class and in your reflections, like [When expert review and usability testing disagree](notes/expert-review-vs-usability-testing.md).
 
