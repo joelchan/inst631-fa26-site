@@ -21,7 +21,7 @@ tags:
 
 **Tue Sep 8** · Part 1: Foundations · [Schedule](../schedule.md)
 
-What is HCI practice — what body of skills and concepts do you want available to you as a practitioner? And what is HCI research — what are the varieties of ways you can contribute new knowledge to HCI?
+What is HCI practice? What body of skills and concepts do you want available to you as a practitioner? And what is HCI research? What are the varieties of ways you can contribute new knowledge to HCI?
 
 ## 📚 READ
 
@@ -44,7 +44,7 @@ Before class, review your collection and share favorites with a one-sentence why
 
 ## ✍️ Reflection
 
-Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
+Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
 
 **Snag.** One specific place you got stuck, reread, or bounced off. Quote the sentence, or give the page number or timestamp. If you feel inspired, try to articulate what the snag is, but even the quote/sentence/timestamp alone is fine. *"I didn't really get ID 1"* is too vague to be a snag; better would be something like *"I couldn't understand Norman's distinction between real and perceived affordances (ID 1, p. 30)"*.
 
@@ -59,7 +59,7 @@ Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word coun
 
 !!! warning "Two hand-ins, both due midnight the night before class"
 
-    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
+    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
 
     Neither is **accepted late**, because I use them to plan class. See the syllabus late policy for what to do if life gets in the way!
 

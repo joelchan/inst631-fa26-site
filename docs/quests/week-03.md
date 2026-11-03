@@ -41,22 +41,22 @@ Bonus:
 
 **Draw it from memory.**
 
-Pick an interface you use every single day. This could be a phone home screen, your email client, the ELMS dashboard, your favorite game HUD, the dashboard of the car you drive — it should be something you would swear you know cold.
+Pick an interface you use every day. This could be a phone home screen, your email client, the ELMS dashboard, your favorite game HUD, the dashboard of the car you drive. It should be something you would swear you know cold.
 
 Now draw it from memory. **Do not open it.**
 
-1. **~25 min — draw it.** Try to draw every element you can recall, including roughly where it sits in the interface, and label it with what it does. Take it as far as you can, and try to leave placeholders for "something goes here????" rather than leave it out!
-2. **~5 min — mark your confidence.** *Before* you look. Circle the parts you are sure about. Put a question mark on the parts you are guessing.
-3. **~20 min — open it and compare.** Mark up your drawing in a second color: what did you miss entirely? Did you invent anything? What did you put in the wrong place? What did you get right but were unsure of, and what you were confident about and wrong about?
-4. **~10 min — post both.** The drawing and the real thing, side by side.
+1. Draw it (~25 min). Try to draw every element you can recall, including roughly where it sits in the interface, and label it with what it does. Take it as far as you can, and try to leave placeholders for "something goes here????" rather than leave it out!
+2. Mark your confidence (~5 min), *before* you look. Circle the parts you are sure about. Put a question mark on the parts you are guessing.
+3. Open it and compare (~20 min). Mark up your drawing in a second color: what did you miss entirely? Did you invent anything? What did you put in the wrong place? What did you get right but were unsure of, and what you were confident about and wrong about?
+4. Post both (~10 min): the drawing and the real thing, side by side.
 
 ## 📌 Deadline
 
-**[CHI Papers Mission](../missions/chi-papers.md) Part 1** — due by class time.
+**[CHI Papers Mission](../missions/chi-papers.md) Part 1**, due by class time.
 
 ## ✍️ Reflection
 
-Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
+Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
 
 **Snag.** One specific place you got stuck, reread, or bounced off. Quote the sentence, or give the page number or timestamp. If you feel inspired, try to articulate what the snag is, but even the quote/sentence/timestamp alone is fine. *"I didn't really get ID 1"* is too vague to be a snag; better would be something like *"I couldn't understand Norman's distinction between real and perceived affordances (ID 1, p. 30)"*.
 
@@ -71,7 +71,7 @@ Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word coun
 
 !!! warning "Two hand-ins, both due midnight the night before class"
 
-    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
+    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
 
     Neither is **accepted late**, because I use them to plan class. See the syllabus late policy for what to do if life gets in the way!
 

@@ -30,7 +30,7 @@ ID 16 - Evaluation - Inspections, Analytics, and Models
 Nielsen's usability heuristics, ~40 min total:
 
 - [3-min intro](https://youtu.be/6Bw0n6Jvwxk)
-- all ten short videos (~30 min), starting at [#1](https://youtu.be/cTtc90jCULU) — you have to click through to #2 … #10 at the end of each
+- all ten short videos (~30 min), starting at [#1](https://youtu.be/cTtc90jCULU) (you have to click through to #2 … #10 at the end of each one)
 - [*Why I never used Jakob Nielsen's 10 Usability Heuristics*](https://youtu.be/be5i-ofRy80) (6 min)
 
 ## 🃏 PLAY
@@ -41,13 +41,13 @@ Return to one of the designs you complained about in prior weeks (or come up wit
 
 ## 📌 Deadline
 
-**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 1** (the interface, its users, and their tasks) — due by class time. You'll choose your heuristic set after this week's session, for Part 2.
+**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 1** (the interface, its users, and their tasks), due by class time. You'll choose your heuristic set after this week's session, for Part 2.
 
 While you're at it, **start lining up five people** for the usability test (Part 3, due Week 11). Finding them is the slow part.
 
 ## ✍️ Reflection
 
-Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
+Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
 
 **Snag.** One specific place you got stuck, reread, or bounced off. Quote the sentence, or give the page number or timestamp. If you feel inspired, try to articulate what the snag is, but even the quote/sentence/timestamp alone is fine. *"I didn't really get ID 1"* is too vague to be a snag; better would be something like *"I couldn't understand Norman's distinction between real and perceived affordances (ID 1, p. 30)"*.
 
@@ -62,7 +62,7 @@ Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word coun
 
 !!! warning "Two hand-ins, both due midnight the night before class"
 
-    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
+    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
 
     Neither is **accepted late**, because I use them to plan class. See the syllabus late policy for what to do if life gets in the way!
 

@@ -29,37 +29,37 @@ ID 6 - Emotional Interaction (27 pages)
 
 Two posts on designing for emotion and character:
 
-- [Interaction Design Foundation — emotional design](https://www.interaction-design.org/literature/topics/emotional-design)
-- [Smashing Magazine — The Personality Layer](https://www.smashingmagazine.com/2012/07/the-personality-layer/)
+- [Interaction Design Foundation: emotional design](https://www.interaction-design.org/literature/topics/emotional-design)
+- [Smashing Magazine: The Personality Layer](https://www.smashingmagazine.com/2012/07/the-personality-layer/)
 
 *If you have trained your brain to see videos/images in blog posts as 'ads' that you should skip over, don't do that here! All the images/videos here are part of the actual posts!*
 
 ## 🃏 PLAY
 
-**Play with the personality/emotion in a thing you use, then live with it for a few days.** Pick a from one of two "lanes".
+**Play with the personality/emotion in a thing you use, then live with it for a few days.** Pick from one of two "lanes".
 
-**Lane A — personify an object.** Take something you use every day and give it a self: googly eyes, a wig, a mustache, a nickname, a voice you do out loud when you pick it up. If you can, do it to **one of a pair** — one of two mugs, one of two pens, one of two chargers — so you have a control sitting right next to it.
+**Lane A: personify an object.** Take something you use every day and give it a self: googly eyes, a wig, a mustache, a nickname, a voice you do out loud when you pick it up. If you can, do it to **one of a pair** (e.g., one of two mugs, pens, or chargers), so you have a control sitting right next to it.
 
-**Lane B — reskin an interface.** Change the emotional register of a site or app you use constantly. The more interesting direction is usually **subtraction**: strip the personality *out* of something that depends on it. Make Duolingo indifferent. Make Instagram look like a tax form. Make Slack funereal. (Adding confetti to every click is also allowed, and also funny.)
+**Lane B: reskin an interface.** Change the emotional register of a site or app you use constantly. The more interesting direction is usually **subtraction**: strip the personality *out* of something that depends on it. Make Duolingo indifferent. Make Instagram look like a tax form. Make Slack funereal. (Adding confetti to every click is also allowed, and also funny.)
 
 !!! tip "How to reskin without building anything"
 
-    Easiest durable option is the **Stylus** browser extension — write a few lines of CSS for any site and it sticks across reloads, which is what makes "living with it" possible. If you want zero install, open DevTools and edit the CSS live, but screenshot as you go because it vanishes on refresh. Prefer not to touch code at all? Paint over a screenshot in Figma. Actually building an extension is welcome but absolutely not expected — remember the standing rule about not using tech you're still learning.
+    The easiest durable option is the **Stylus** browser extension: write a few lines of CSS for any site and it sticks across reloads, which is what makes "living with it" possible. If you want zero install, open DevTools and edit the CSS live, but screenshot as you go because it vanishes on refresh. Prefer not to touch code at all? Paint over a screenshot in Figma. Actually building an extension is welcome but absolutely not expected (remember the standing rule about not using tech you're still learning!).
 
 
 **Live with the transformed thing for a few days and keep a running log.** Jot the moments and your reactions/feelings/behaviors as they come up. Did you stop slamming the drawer? Apologize when you knocked it over? Hesitate to throw it away? Open the app less? Feel nagged, or oddly fond, or faintly stupid? 
 
 **Post the log and the thing.** A photo of your object, or a before/after of your reskin, plus the running log itself. 
 
-*Ground rules:* removable modifications only, nothing shared, borrowed, or expensive — googly-eye adhesive on a laptop lid is a bad afternoon. Nicknames and voices need no materials at all and work just as well. And don't reskin anything high-stakes while you're depending on it; restyling ELMS during a deadline week is a bad Tuesday.
+*Ground rules:* removable modifications only, nothing shared, borrowed, or expensive (e.g., googly-eye adhesive on a laptop lid would make for a bad afternoon!). Nicknames and voices need no materials at all and work just as well. And don't reskin anything high-stakes while you're depending on it (e.g., please don't restyle ELMS during a deadline week!).
 
 ## 📌 Deadline
 
-**[CHI Papers Mission](../missions/chi-papers.md) Part 2** — due by class time.
+**[CHI Papers Mission](../missions/chi-papers.md) Part 2**, due by class time.
 
 ## ✍️ Reflection
 
-Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
+Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
 
 **Snag.** One specific place you got stuck, reread, or bounced off. Quote the sentence, or give the page number or timestamp. If you feel inspired, try to articulate what the snag is, but even the quote/sentence/timestamp alone is fine. *"I didn't really get ID 1"* is too vague to be a snag; better would be something like *"I couldn't understand Norman's distinction between real and perceived affordances (ID 1, p. 30)"*.
 
@@ -74,7 +74,7 @@ Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word coun
 
 !!! warning "Two hand-ins, both due midnight the night before class"
 
-    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
+    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
 
     Neither is **accepted late**, because I use them to plan class. See the syllabus late policy for what to do if life gets in the way!
 

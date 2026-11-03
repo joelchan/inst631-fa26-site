@@ -26,7 +26,7 @@ How AI changes *how* we design. **What is the role of an HCI expert in the age o
 
 ## 📚 READ
 
-[Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/) — Litt, Horowitz, van Hardenberg, Matthews (Ink & Switch, 2025)
+[Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/), by Litt, Horowitz, van Hardenberg, and Matthews (Ink & Switch, 2025)
 
 ## 📺 WATCH
 
@@ -34,20 +34,20 @@ Maggie Appleton, [*Home-cooked Software and Barefoot Programmers*](https://www.y
 
 ## 🃏 NO PLAY
 
-We're building v1 together in the session instead — come with a working tool and an idea. *(Setup was Week 12's job.)*
+We're building v1 together in the session instead, so come with a working tool and an idea! *(Setup was Week 12's job.)*
 
 !!! warning "We're suspending a rule for two weeks"
 
-    The standing rule in this course is *don't use tech you're still learning — stay analog if unsure.* These two weeks invert it deliberately: the whole question is what becomes possible when the tooling stops being the barrier. Normal service resumes after.
+    The standing rule in this course is *don't use tech you're still learning (stay analog if unsure).* These two weeks invert it deliberately: the whole question is what becomes possible when the tooling stops being the barrier. We'll go back to the usual rule after that.
 
 
 ## 📌 Deadline
 
-**[Accessibility Testing Mission](../missions/accessibility-testing.md) Part 2** (automated inspection) — by class time, because the in-class comparison workshop needs it in hand.
+**[Accessibility Testing Mission](../missions/accessibility-testing.md) Part 2** (automated inspection), due by class time, because the in-class comparison workshop needs it in hand.
 
 ## ✍️ Reflection
 
-Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
+Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
 
 **Snag.** One specific place you got stuck, reread, or bounced off. Quote the sentence, or give the page number or timestamp. If you feel inspired, try to articulate what the snag is, but even the quote/sentence/timestamp alone is fine. *"I didn't really get ID 1"* is too vague to be a snag; better would be something like *"I couldn't understand Norman's distinction between real and perceived affordances (ID 1, p. 30)"*.
 
@@ -62,7 +62,7 @@ Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word coun
 
 !!! warning "One hand-in, due midnight the night before class"
 
-    **Reflection** → link your heading in this week's Google Doc. Worth **2 points**, and I drop your lowest reflection of the term — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
+    **Reflection** → link your heading in this week's Google Doc. Worth **2 points**, and I drop your lowest reflection of the term, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
 
     It is not **accepted late**, because I use it to plan class. See the syllabus late policy for what to do if life gets in the way!
 

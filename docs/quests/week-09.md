@@ -22,11 +22,9 @@ tags:
 
 **Tue Nov 3** · Part 2: Evaluation · [Schedule](../schedule.md)
 
-*(No class Tue Oct 13 — fall break.)*
-
 ## 📚 READ
 
-ID 15 - Evaluation Studies - From Controlled to Natural Settings (26 pages)]
+ID 15 - Evaluation Studies - From Controlled to Natural Settings (26 pages)
 
 ## 📺 WATCH
 
@@ -38,13 +36,13 @@ Usability testing, a step-by-step guide ([35 min](https://www.youtube.com/watch?
 
 ## 📌 Deadline
 
-**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 2** (expert review) — due by class time.
+**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 2** (expert review), due by class time.
 
 The usability test (Part 3) is due in Week 11. We'll pilot task lists on each other in class this week, so bring a draft of yours.
 
 ## ✍️ Reflection
 
-Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
+Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
 
 **Snag.** One specific place you got stuck, reread, or bounced off. Quote the sentence, or give the page number or timestamp. If you feel inspired, try to articulate what the snag is, but even the quote/sentence/timestamp alone is fine. *"I didn't really get ID 1"* is too vague to be a snag; better would be something like *"I couldn't understand Norman's distinction between real and perceived affordances (ID 1, p. 30)"*.
 
@@ -59,7 +57,7 @@ Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word coun
 
 !!! warning "One hand-in, due midnight the night before class"
 
-    **Reflection** → link your heading in this week's Google Doc. Worth **2 points**, and I drop your lowest reflection of the term — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
+    **Reflection** → link your heading in this week's Google Doc. Worth **2 points**, and I drop your lowest reflection of the term, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
 
     It is not **accepted late**, because I use it to plan class. See the syllabus late policy for what to do if life gets in the way!
 

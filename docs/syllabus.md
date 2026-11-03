@@ -38,7 +38,7 @@ This course is an introduction to human-computer interaction for HCIM students. 
 
 
 ## Resources
-### Required  — all available through ELMS electronic resources!
+### Required (all available through ELMS electronic resources!)
 
 Rogers, Y., Sharp, H., and Preece, J. (2019). *Interaction design: Beyond human-computer interaction* (5th edition). John Wiley and Sons. *(available as an ebook at no cost, via the Course Reserves Link on ELMS)* 
 - The book website also has a ton of great resources (free), including case studies
@@ -55,11 +55,11 @@ Erickson, T. & McDonald, D. W. (Eds., 2007). *HCI Remixed: Reflections on Works 
 
 ### General Course-Related Policies for Graduate Students
 
-I highly recommend that you review the University of Maryland's policies about graduate courses, as different institutions and fields have different expectations. For example, UMD has a policy in place against 'self-plagiarism' — what does it even mean to self-plagiarize, you ask? Well, [review the policies](#general-course-related-policies-for-graduate-students_1) and find out! UMD has a detailed explanation of [*academic integrity*](https://policies.umd.edu/academic-affairs/university-of-maryland-code-of-academic-integrity), as well, which will explain the policies and expectations that we are all bound by and held to.
+I highly recommend that you review the University of Maryland's policies about graduate courses, as different institutions and fields have different expectations. For example, UMD has a policy in place against 'self-plagiarism'. What does it even mean to self-plagiarize, you ask? Well, [review the policies](#general-course-related-policies-for-graduate-students_1) and find out! UMD has a detailed explanation of [*academic integrity*](https://policies.umd.edu/academic-affairs/university-of-maryland-code-of-academic-integrity), as well, which will explain the policies and expectations that we are all bound by and held to.
 
 ## Course Structure
 
-This is a 'flipped' classroom course — so you'll be reading chapters/articles, watching videos/lectures, and doing individual work outside of class. You are expected to complete the videos, readings, and assignments any time during the week — use this flexibility to your advantage, so it works for your schedule! There *is* a deadline for the weekly reading responses, however: you have until midnight before class each week.
+This is a 'flipped' classroom course, so you'll be reading chapters/articles, watching videos/lectures, and doing individual work outside of class. You are expected to complete the videos, readings, and assignments any time during the week: use this flexibility to your advantage, so it works for your schedule! There *is* a deadline for the weekly reading responses, however: you have until midnight before class each week.
 
 To provide the most flexibility for all students, this introductory course will include primarily individual work.
 
@@ -74,21 +74,21 @@ Our in-person class time will be used for discussions, collaborative work, and o
 
 📚 **READ**: Each week there will be one or two readings of varying length
 
-📺 **WATCH**: Each week there will be at least one video of varying length — viewing time is usually about 60 minutes per week
+📺 **WATCH**: Each week there will be at least one video of varying length (usually about 60 minutes of viewing per week)
 
-🃏 **PLAY**: Most weeks, there will be a short individual design challenge of some kind. These design challenges are opportunities to PLAY, so I refer to these quests as RWP (Read, Watch, Play). After completing this quest, you'll post your (messy, incomplete) design work on ELMS, and two or three students each week will be chosen to do a 'stand-up report' on their design.
+🃏 **PLAY**: Most weeks, there will be a short individual design challenge of some kind. These design challenges are opportunities to PLAY, so I refer to these quests as RWP (Read, Watch, Play). After completing this quest, you'll post your (messy, incomplete) design work on our shared Miro board and submit the link on ELMS for accountability, and two or three students each week may be chosen to do a 'stand-up report' on their design (but more generally, we'll use and refer to your plays in class).
 
-**Two things to hand in each week, as two separate assignments on ELMS** — your 🃏 **PLAY** and your ✍️ **Reflection**. Both are *shells*: you hand in a **link**, not a file. Plays live on a shared Miro board, reflections in a shared Google Doc, one of each per week, so that everyone's work is somewhere the rest of us can see it and build on it in class.
+Each week you'll hand in **two things, as two separate assignments on ELMS**: your 🃏 PLAY and your ✍️ Reflection. Both are *shells*, meaning you hand in a **link**, not a file. Plays live on a shared Miro board and reflections in a shared Google Doc (one of each per week). I set it up this way so everyone's work is somewhere the rest of us can see it and build on it in class.
 
-**Each is worth 2 points, and I drop your lowest PLAY and your lowest Reflection** — so one entirely lost week costs you nothing, which is usually how it goes.
+**Each is worth 2 points, and I drop your lowest PLAY and your lowest Reflection.** So if you lose an entire week, it costs you nothing!
 
 → **[Where your work goes](where-your-work-goes.md)** has the step-by-step for these and for the missions and CYOs below, including how to get the link out of Miro and Google Docs, and what to do if something breaks at eleven at night.
 
-The reflection is due midnight the night before class, so I can use your responses to plan the session. It is not a summary. **There's no word count and it doesn't need to be polished** — bullet points and half-finished sentences are welcome, as long as I can tell which of the three parts I'm reading:
+The reflection is due midnight the night before class, so I can use your responses to plan the session. It is NOT a summary. There's no word count and it doesn't need to be polished: bullet points and half-finished sentences are welcome, as long as I can tell which of the three parts I'm reading:
 
-- **Snag** — one specific place you got stuck, reread, or bounced off. Quote it.
-- **Compare** — your PLAY held up against the READ or WATCH: a *"huh, that's funny/interesting/weird/cool"* that connects an idea from the week to something concrete you did. On weeks with no separate PLAY, each quest page names what to use instead.
-- **Ask** — one question you can't answer from the week's materials and think is worth class time.
+- **Snag**: one specific place you got stuck, reread, or bounced off. Quote it.
+- **Compare**: hold your PLAY up against the READ or WATCH, and look for a *"huh, that's funny/interesting/weird/cool"* that connects an idea from the week to something concrete you did. On weeks with no separate PLAY, each quest page names what to use instead.
+- **Ask**: one question you can't answer from the week's materials and think is worth class time.
 
 !!! note "On AI: Don't short-circuit (y)our learning!"
 
@@ -101,7 +101,7 @@ Missions are larger projects. There will be three of them.
 
 ##### Mission #1: [CHI Papers Mission](missions/chi-papers.md)
 
-Choose two full-length (10+ pages) research papers from the CHI conference series, on a single topic (e.g., do not choose one paper on olfactory devices and another paper on visualization): **one from CHI 2026**, and **one from any other year you like**. This works best if the topic is related to one of your driving interests - optimize for this rather than perceived ease of understanding. 
+Choose two full-length (10+ pages) research papers from the CHI conference series, on a single topic (e.g., do not choose one paper on olfactory devices and another paper on visualization): **one from CHI 2026**, and **one from any other year you like**. This works best if the topic is related to one of your driving interests, so optimize for that rather than for what seems easiest to understand. 
 
 Your job then will be to
 
@@ -116,7 +116,7 @@ Your map can be digital (I recommend tldraw or Miro and will provide a template 
 
 You will be asked to do two forms of usability evaluation: 
 
-1. An **expert review** on an interface utilizing a set of heuristics (e.g. Shneiderman's 8 Golden Rules of Interface Design), and 
+1. An **expert review** on an interface, using a set of heuristics (e.g. Shneiderman's 8 Golden Rules of Interface Design), and 
 2. A **usability test** involving 5 users (any 5 users) attempting tasks testing the same interface. You will need to report on the results of each. 
 
 It runs in **three graded parts**, like the other two missions: a short prep step in Week 8, then the review in Week 9 and the test in Week 11. Each part is due the week *after* we cover its method in class, and the test gets two weeks because finding five people takes time.
@@ -124,7 +124,7 @@ It runs in **three graded parts**, like the other two missions: a short prep ste
 
 You will be asked to do two forms of accessibility evaluation:
 
-1. Doing a **manual (expert) inspection** of a web page utilizing the Web Content Accessibility Guidelines (WCAG, which we will discuss in class), and
+1. Doing a **manual (expert) inspection** of a web page using the Web Content Accessibility Guidelines (WCAG, which we will discuss in class), and
 2. Inspecting the same web page using an **automated accessibility testing tool**. 
 
 We will provide access to the automated accessibility testing tool, free of charge. You will need to report on the results of each, including a comparison between what you found manually versus using the automated tool. 
@@ -134,9 +134,9 @@ We will provide access to the automated accessibility testing tool, free of char
 Choose your own (CYO) quests are available for you to... choose your own quests that help you explore the fundamentals of HCI, as you understand it! These could be your own plays, a conversation with a cool HCI person, or your notes from a cool talk you attended, or a bonus reading or watch listed in our [Schedule](schedule.md). The choice is *literally* yours :) You choose what to do, with a requirement to share back with everyone in our shared doc. Please also share any opportunities (events, talks, cool things you saw that others might find interesting), in our shared doc! Do as many CYOs as you like, but we'll grade only 7 of them.
 ### Grading Structure
 
-Your grade is determined by your performance on the learning assessments in the course and is assigned individually (and is not "curved"). In particular, each quest, mission, etc. is worth points — and at the end of the semester, I add up all the points to determine your grade.
+Your grade is determined by your performance on the learning assessments in the course and is assigned individually (and is not "curved"). Basically, each quest, mission, etc. is worth points, and at the end of the semester I add up all the points to determine your grade.
 
-All weekly reading reflection scores will be posted on ELMS; all paper-based assignments will be returned with notes and grades. If you have questions about how something was scored, please come to office hours!
+All scores will be posted on ELMS. If you have questions about how something was scored, please come to office hours!
 
 If earning a particular grade is important to you, please speak with me at the beginning of the semester so that I can offer some helpful suggestions for achieving your goal. I am happy to discuss any of your grades with you, and if I have made a mistake, I will immediately correct it. Any formal grade disputes must be submitted in writing and within one week of receiving the grade.
 
@@ -181,19 +181,17 @@ Sometimes students wonder how much work, how many hours are expected of them eac
 
 ### Deadlines & ELMS
 
-Assignment deadlines are listed relationally — e.g., "midnight the day before class" or "by class time." This means you won't automatically see every deadline in your ELMS calendar, but you can organize your time and track deadlines by adding your own reminders (for more information on ELMS calendars, see [this page](https://community.canvaslms.com/t5/Student-Guide/How-do-I-use-the-Calendar-as-a-student/ta-p/534)).
+Assignment deadlines are listed relationally (e.g., "midnight the day before class" or "by class time"). This means you won't automatically see every deadline in your ELMS calendar, but you can organize your time and track deadlines by adding your own reminders (for more information on ELMS calendars, see [this page](https://community.canvaslms.com/t5/Student-Guide/How-do-I-use-the-Calendar-as-a-student/ta-p/534)).
 
 The written reflections must be completed on ELMS by midnight the day before class, while the projects will generally be due by class time.
 
-**Weekly quests will not be accepted late.** They're time-constrained by design — I read your reflections to plan the class you're about to sit in, so a reflection that arrives afterward can't do its job. But! As I'll share in class, one part of our class contract is that we're human! I get it. Life happens. So instead of a late policy, there's a freebie policy: each quest is worth 4 points, and I drop your two lowest quest scores. You don't need to tell me why, ask permission, or apologize. Get sick, have a week, miss two — it costs you nothing. That's what the drops are for, so spend them when you need them rather than saving them.
+**Weekly quests will not be accepted late.** This is because I read your reflections to plan the class you're about to sit in, so a reflection that arrives afterward can't do its job. But! As I'll share in class, one part of our class contract is that we're human! I get it. Life happens. So instead of a late policy, there's a freebie policy: each PLAY and each Reflection is worth 2 points, and I drop your lowest PLAY and your lowest Reflection. You don't need to tell me why, ask permission, or apologize. If you get sick or have a rough week, that's what the drops are for, so please use them when you need them!
 
-*One exception, the **asynchronous week (Week 12)**, where there's no class meeting. That reflection is the only way I know how the week landed for you, so it can't be dropped.*
+**Missions can be handed in late**, on two tiers. Within 24 hours of the deadline, you lose 20% of that part's points. After that and within a week, 60%. Past a week, come talk to me and we'll figure it out. Penalties apply to each part separately, not to the mission as a whole. And if you're past the point where the percentage matters, please **submit it anyway**! I'd rather see the work, and an unsubmitted mission is a different conversation from a late one.
 
-**Missions can be handed in late**, on two tiers. Within 24 hours of the deadline, you lose 20% of that part's points. After that and within a week, 60%. Past a week, come talk to me — that's a conversation, not a formula. Penalties apply to each part separately, not to the mission as a whole. And if you're past the point where the percentage matters, **submit it anyway**: I'd rather see the work, and an unsubmitted mission is a different conversation from a late one.
+NOTE: missions are due at class time because we often use them in class for our learning together. If your automated inspection isn't in by the start of Week 13, you can't take part in the comparison workshop, and that workshop is the mission's third part! So being a day late on that one costs you a lot more than the 20%, because it affects what you can learn downstream. The same goes, less sharply, for the expert review, which Week 9's usability-test prep builds on.
 
-**One thing the percentages don't capture.** Missions are due at class time because we often use them in class for our learning together. If your automated inspection isn't in by the start of Week 13, you can't take part in the comparison workshop — and that workshop is the mission's third part! Being a day late on that one costs you far more than the 20% - it propagates to downstream learning. The same goes, less sharply, for the expert review, which Week 9's usability-test prep builds on.
-
-*And again, we're human, so! If you have a health or family emergency, let me know — we'll talk over your options and figure things out!*
+*And again, we're human, so! If you have a health or family emergency, let me know, and we'll talk over your options and figure things out!*
 ### Communication
 
 While most assignments will be submitted online via ELMS, there generally won't be much information posted there, as details will be discussed in class ahead of time. Keep good notes, and make sure to ask questions in class (or come to office hours!).

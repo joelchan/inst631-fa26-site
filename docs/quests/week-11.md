@@ -32,47 +32,47 @@ tags:
 
 ## 📺 WATCH
 
-[How to track a manual evaluation](https://youtu.be/C770bSvGr_E?si=kvIJNnBzXoC7WiEL&t=1291) (~26 mins, from 21:30 to ~47:00) — a hands-on demo. Worth having open while you work. 
+[How to track a manual evaluation](https://youtu.be/C770bSvGr_E?si=kvIJNnBzXoC7WiEL&t=1291) (~26 mins, from 21:30 to ~47:00). It's a hands-on demo, so it's worth having open while you work.
 
 ## 🃏 PLAY — we do this one in class
 
 **Make it more accessible.**
+
+NOTE: this play is subject to change, pending Dr. Jordan's instructions :)
 
 !!! tip "Nothing to do before class for this one"
 
     Your usability test is due at the start of class, so this week's play is the studio block of the session instead of another hour at home. **Come with the interface open** and we'll work on it together, with me circulating for mission check-ins while you do.
 
 
-Take **the interface you evaluated for the [Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md)** — you know it better than anyone at this point — and try to make it more accessible! 
+Take **the interface you evaluated for the [Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md)** (you know it better than anyone at this point!) and try to make it more accessible!
 
-1. **~15 min — go looking.** Review the interface with EDA 4 and 8 in hand. What would fail, and where?
-2. **~35 min — fix one or two things.** Mark up a screenshot, redraw the component, rewrite the markup, sketch the fix. Whatever shows the change.
+1. Go looking (~15 min). Review the interface with EDA 4 and 8 in hand. What would fail, and where?
+2. Fix one or two things (~35 min). Mark up a screenshot, redraw the component, rewrite the markup, sketch the fix. Whatever shows the change.
 	- You can use the following resources as inspiration:
 		- [UI Quick Tips for Designers](https://www.wcag.com/resource/ui-quick-tips-for-designers/)
 		- [UX Quick Tips for Designers](https://www.wcag.com/resource/ux-quick-tips-for-designers/)
 		- [Key WCAG Success Criteria for Designers](https://www.wcag.com/designers/)
 		- [Designing for Web Accessibility](https://www.w3.org/WAI/tips/designing/)
-3. **~10 min — post before and after.**
+3. Post your before and after (~10 min).
 
 *You have a short time to play (1 hour!), but you know the interface really well by now, so you should be able to pick one or two ways that the interface could be more accessible.*
 
-**One or two, done properly, beats a list of ten.** Unfinished is fine — post it anyway.
+Aim to fix one or two problems properly, rather than listing ten. It's ok if it's unfinished: post it anyway!
 
 ## 🎒 Bring to class
 
-**Bring one object** you use every day — whatever's already in your bag or your pocket is perfect.
-
-**And have your [Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) interface open**, ready to work on. That's this week's play, and we do it in the room.
+**Have your [Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) interface open**, ready to work on. That's this week's play, and we do it in the room.
 
 ## 📌 Deadline
 
-**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 3** (usability test) — due by class time.
+**[Evaluations and Usability Testing Mission](../missions/evaluations-and-usability-testing.md) Part 3** (usability test), due by class time.
 
 The [Accessibility Testing Mission](../missions/accessibility-testing.md) manual inspection (Part 1) is due next week, so this session is your chance to bring questions about it.
 
 ## ✍️ Reflection
 
-Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
+Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
 
 **Snag.** One specific place you got stuck, reread, or bounced off. Quote the sentence, or give the page number or timestamp. If you feel inspired, try to articulate what the snag is, but even the quote/sentence/timestamp alone is fine. *"I didn't really get ID 1"* is too vague to be a snag; better would be something like *"I couldn't understand Norman's distinction between real and perceived affordances (ID 1, p. 30)"*.
 
@@ -89,9 +89,9 @@ Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word coun
 
     **Reflection** → link your heading in this week's Google Doc, **midnight the night before class**, as usual.
 
-    **PLAY** → link your frame on this week's Miro board, **midnight the night *of* class** — because you make it during the session. This is the only week that works this way.
+    **PLAY** → link your frame on this week's Miro board, **midnight the night *of* class**, because you make it during the session, same as last week.
 
-    Two separate ELMS assignments, **2 points each**, and I drop your lowest of each — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
+    Two separate ELMS assignments, **2 points each**, and I drop your lowest of each, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
 
     The reflection is not **accepted late**, because I use it to plan class. See the syllabus late policy for what to do if life gets in the way!
 

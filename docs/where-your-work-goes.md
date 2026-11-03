@@ -2,9 +2,9 @@
 
 This class runs as a shared learning commons: play-based, and co-created by all of us. So handing work in works a little differently here than you're probably used to!
 
-**Everyone can see everyone's.** We run stand-ups off the board and read each other's reflections in class. Missions are a lot more interesting when you can see how someone else took the same brief. It does mean writing a reflection knowing your classmates will read it. Posting your confusions and your messy, unfinished work where everyone can see them can feel scary: that's normal! We'll practice noticing that feeling and pushing through to play anyway, for maximum learning gains!
+Everyone can see everyone's work! We run stand-ups off the board and read each other's reflections in class. Missions are a lot more interesting when you can see how someone else took the same brief. It does mean writing a reflection knowing your classmates will read it. Posting your confusions and your messy, unfinished work where everyone can see them can feel scary: that's normal! We'll practice noticing that feeling and pushing through to play anyway, for maximum learning gains!
 
-**Which means ELMS is just a shell for accountability (aka credit aka grades).** A file uploaded to ELMS is visible to me and nobody else, which is the opposite of "everyone can see everyone's". So your work lives on our shared board and drive, and what you hand in on ELMS is a **link** to it. You never upload a file.
+Which means ELMS is just a shell for accountability (aka credit aka grades). A file uploaded to ELMS is visible to me and nobody else, which is the opposite of "everyone can see everyone's". So your work lives on our shared board and drive, and what you hand in on ELMS is a **link** to it. You never upload a file.
 
 | | lives on | you hand in | due |
 | --- | --- | --- | --- |
@@ -15,7 +15,7 @@ This class runs as a shared learning commons: play-based, and co-created by all 
 
 Each of those has its own assignment on ELMS. The board and the doc for each week are posted at the start of the week; each mission page links its own shared folder.
 
-!!! tip "There are only two tricks to learn"
+!!! tip "There's really just a couple tricks to learn"
 
     How to link a **frame in Miro**, and how to link a **heading in Google Docs**. That second one covers three of the four rows above, so once you've done a reflection you already know how to hand in a mission and a CYO.
 
@@ -26,9 +26,9 @@ Each of those has its own assignment on ELMS. The board and the doc for each wee
 
 Everything to the right of the marked line is yours to use.
 
-1. **Make a frame** and drop your work inside it. (Frame is the tool in the left toolbar — it's the one that looks like a rectangle with corners.)
-2. **Name the frame with your name.** Double-click the frame's label, top-left.
-3. **Copy the link to your frame**, and paste that into ELMS.
+1. Make a **frame** and drop your work inside it. (Frame is the tool in the left toolbar: it's the one that looks like a rectangle with corners.)
+2. Name the frame with your name. Double-click the frame's label, top-left.
+3. Copy the link to your frame, and paste that into ELMS.
 
 !!! tip "Getting the link"
 
@@ -39,18 +39,18 @@ Everything to the right of the marked line is yours to use.
 
 ![Copying a link to a frame in Miro](assets/miro-frame-copy.gif)
 
-**Why a named frame** rather than dropping things loose. It's what gives you a link at all. It puts you in the board's frame list, so I can find your work during stand-ups. And it stops thirty people's plays landing on top of each other.
+Why a named frame, rather than dropping things in loose? It's what gives you a link at all! It also puts you in the board's frame list, so I can find your work during stand-ups. And it stops thirty people's plays from piling up on top of each other.
 
-Your play is meant to be **messy and unfinished**. Photograph a paper sketch and drop the photo in — that counts, and most weeks it's the point.
+Your play is meant to be **messy and unfinished**. Photograph a paper sketch and drop the photo in: that counts, and most weeks it's the point!
 
 ---
 
 ## Your reflection → the week's Google Doc
 
-1. **Add a heading with your name**, at the bottom of the doc.
-2. **Make it an actual Heading**, not just bold text — *Format → Paragraph styles → Heading 2*. This is what makes it linkable and what puts you in the outline.
+1. Add a heading with your name, at the bottom of the doc.
+2. Make it an actual **Heading**, not just bold text (*Format → Paragraph styles → Heading 2*). This is what makes it linkable and what puts you in the outline.
 3. Write your reflection underneath it.
-4. **Copy the link to your heading**, and paste that into ELMS.
+4. Copy the link to your heading, and paste that into ELMS.
 
 !!! tip "Getting the link"
 
@@ -65,29 +65,29 @@ Your play is meant to be **messy and unfinished**. Photograph a paper sketch and
 
 ## Your mission parts → your own doc, in the mission's shared folder
 
-Each mission has **a shared Drive folder**, linked at the top of its page — [CHI Papers Mission](missions/chi-papers.md), [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), [Accessibility Testing Mission](missions/accessibility-testing.md). You make **one doc for the whole mission** and hand in a different heading from it each time a part comes due.
+Each mission has **a shared Drive folder**, linked at the top of its page ([CHI Papers Mission](missions/chi-papers.md), [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), [Accessibility Testing Mission](missions/accessibility-testing.md)). You make **one doc for the whole mission** and hand in a different heading from it each time a part comes due.
 
-1. **Open the folder** from the mission page, and make your doc *inside it* — **New → Google Docs**, from within the folder. If you make it somewhere else and drag it in later, it can end up shared with nobody but you.
-2. **Name the doc with your name.** Everyone's work sits side by side in there, so "Untitled document" helps no one.
-3. **Put three Headings in it, one per part** — same *Format → Paragraph styles → Heading 2* move as a reflection. Do this at the start, even though the parts are weeks apart.
-4. **When a part is due, copy the link to that part's heading** and paste it into that part's assignment on ELMS.
+1. Open the folder from the mission page, and make your doc *inside it* (**New → Google Docs**, from within the folder). If you make it somewhere else and drag it in later, it can end up shared with nobody but you.
+2. Name the doc with your name. Everyone's work sits side by side in there, so "Untitled document" helps no one.
+3. Put three **Headings** in it, one per part, with the same *Format → Paragraph styles → Heading 2* move as a reflection. Do this at the start, even though the parts are weeks apart.
+4. When a part is due, copy the link to that part's heading and paste it into that part's assignment on ELMS.
 
 !!! warning "One doc, three submissions"
 
-    The link you hand in for Part 2 is *not* the same as the link you handed in for Part 1 — it's the same document, but a different heading inside it. Handing in the plain document link works, technically, but it drops me at the top of a long file and I have to hunt for the part you meant.
+    The link you hand in for Part 2 is *not* the same as the link you handed in for Part 1. It's the same document, but a different heading inside it. Handing in the plain document link works, technically, but it drops me at the top of a long file and I have to hunt for the part you meant.
 
 
-**Planning to add more than a doc?** Screen recordings, a Figma file, a folder of screenshots — make **a folder with your name** in the shared folder instead, and put your doc inside that. Then everything for that mission travels together.
+Planning to add more than a doc (e.g., screen recordings, a Figma file, a folder of screenshots)? Then make **a folder with your name** in the shared folder instead, and put your doc inside that. Then everything for that mission travels together.
 
-Whatever else you make still needs to be **reachable**. A Loom or Zoom recording, a Figma prototype, a tldraw board — link it from the right heading in your doc, and check the sharing is open to the class before you submit.
+Whatever else you make still needs to be **reachable**. If it's a Loom or Zoom recording, a Figma prototype, or a tldraw board, link it from the right heading in your doc, and check the sharing is open to the class before you submit.
 
 ---
 
 ## Your CYOs → the shared CYO doc
 
-CYOs are the "choose your own" quests: a play you invented, a talk you went to, a conversation with someone doing interesting HCI work, or one of the bonus readings and watches in the [Schedule](schedule.md). Do as many as you like — seven of them count toward your grade.
+CYOs are the "choose your own" quests: a play you invented, a talk you went to, a conversation with someone doing interesting HCI work, or one of the bonus readings and watches in the [Schedule](schedule.md). Do as many as you like! Seven of them count toward your grade.
 
-The condition on a CYO is that **you share it back**. Same moves as a reflection: add a heading with your name, write underneath it, copy the link to your heading, and paste that into ELMS. The one difference is the doc — [a single running one](https://docs.google.com/document/d/1d_KF6FejDZuNCPuaCMKDvl5Kbl-fA4Mj6S_jllStcFk/edit?tab=t.0) for the whole term, rather than a fresh one each week.
+The condition on a CYO is that **you share it back**. Same moves as a reflection: add a heading with your name, write underneath it, copy the link to your heading, and paste that into ELMS. The one difference is the doc: [a single running one](https://docs.google.com/document/d/1d_KF6FejDZuNCPuaCMKDvl5Kbl-fA4Mj6S_jllStcFk/edit?tab=t.0) for the whole term, rather than a fresh one each week.
 
 Saw a talk, an event, a tool, or anything else the rest of us might want to know about, but didn't get a chance to CYO it? **Put it in the same doc, under the "Opportunities!" tab.**
 
@@ -97,7 +97,7 @@ Saw a talk, an event, a tool, or anything else the rest of us might want to know
 
 **Don't let a broken link cost you the points.** If the board won't load, the doc won't open, or you can't work out the link at eleven o'clock at night:
 
-- Submit **whatever you have** straight into the ELMS submission comment — a screenshot, a photo, pasted text — and say what went wrong.
+- Submit **whatever you have** straight into the ELMS submission comment (e.g., a screenshot, a photo, pasted text), and say what went wrong.
 - Then sort out the link when you can.
 
 The deadline is firm because I plan the session from your work, not because I want to catch anyone out.

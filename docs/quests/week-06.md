@@ -30,7 +30,7 @@ Bonus / CYO:
 
 ## 📺 WATCH
 
-Daniel Cook (Spry Fox), **[Game Design Patterns for Building Friendships](https://www.youtube.com/watch?v=voz6S7ryWC0)** — GDC 2018, **63 min**.
+Daniel Cook (Spry Fox), **[Game Design Patterns for Building Friendships](https://www.youtube.com/watch?v=voz6S7ryWC0)** (GDC 2018, **63 min**).
 
 This is a bit longer than our other watch videos, but it's worth it! This is a design bible gold mine!
 
@@ -40,21 +40,21 @@ This is a bit longer than our other watch videos, but it's worth it! This is a d
 
 Over the week, collect **three moments where a social interaction went well**, and **one technology-mediated moment where it didn't.**
 
-The three good ones can be **any medium** — a conversation in a hallway counts! The bad one has to be **technology-mediated**, because that's where you'll be playing with a fix!
+The three good ones can be **any medium**: a conversation in a hallway counts! The bad one has to be **technology-mediated**, because that's where you'll be playing with a fix!
 
 A *moment* means something bounded and specific, with people in it. Bounded can be long/rhythmic/habitual, not just literally a few seconds, like "The way my lab's standup works".
 
 !!! warning "Tips for seeing success in social interactions"
 
-    It can be easier to notice when social stuff fails - they jar you and piss you off! Sometimes good social stuff is invisible or in the background.
+    It can be easier to notice when social stuff fails, because it jars you and pisses you off! Sometimes good social stuff is invisible or in the background.
 
     Here are some tips/heuristics for noticing success:
 
-    - **Delight** — you felt really happy/energized/connected after/during the moment
-    - **Relief** — you braced for something awkward and it... wasn't!
-    - **Repair** — a misunderstanding got fixed so smoothly you nearly missed it happening.
-    - **Ritual** — something recurring that survives *because* it works and you look forward to it (e.g., a standup, a fun group-chat convention)
-    - **Ask someone** — *"what's a tool or a ritual that actually works for you?"*
+    - **Delight**: you felt really happy/energized/connected after/during the moment
+    - **Relief**: you braced for something awkward and it... wasn't!
+    - **Repair**: a misunderstanding got fixed so smoothly you nearly missed it happening.
+    - **Ritual**: something recurring that survives *because* it works and you look forward to it (e.g., a standup, a fun group-chat convention)
+    - **Ask someone**: *"what's a tool or a ritual that actually works for you?"*
 
 
 **Try to name the mechanism in all four.** Use the chapter's vocabulary and concepts. How did turns get taken? Were there adjacency pairs, and did they get closed? Was anyone back-channeling, and what happened when nobody did? What did each person need to be aware of, and how did they come to know it? Where was the repair?
@@ -65,13 +65,13 @@ As with last week's play, you might find these additional pattern libraries usef
 
 - [Decent Patterns](https://decentpatterns.xyz/library/list/) 
 - [Prosocial Design Network](https://www.prosocialdesign.org/) 
-- [Deceptive Patterns](https://www.deceptive.design/types) — might be things to avoid, but maybeee also leverage for good??
+- [Deceptive Patterns](https://www.deceptive.design/types) (might be things to avoid, but maybeee also leverage for good??)
 - [CommunityRule](https://communityrule.info/)
-- [Project Horseshoe: strangers becoming friends](https://www.projecthorseshoe.com/reports/featured/ph16r4.htm) — Cook's patterns from the Watch in text.
+- [Project Horseshoe: strangers becoming friends](https://www.projecthorseshoe.com/reports/featured/ph16r4.htm): Cook's patterns from the Watch, in text form.
 
 ## ✍️ Reflection
 
-Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
+Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count and no need to polish: bullet points and half-finished sentences are welcome, as long as I can tell which of the three I'm reading.
 
 **Snag.** One specific place you got stuck, reread, or bounced off. Quote the sentence, or give the page number or timestamp. If you feel inspired, try to articulate what the snag is, but even the quote/sentence/timestamp alone is fine. *"I didn't really get ID 1"* is too vague to be a snag; better would be something like *"I couldn't understand Norman's distinction between real and perceived affordances (ID 1, p. 30)"*.
 
@@ -86,7 +86,7 @@ Three things — a **Snag**, a **Compare**, and an **Ask**. There's no word coun
 
 !!! warning "Two hand-ins, both due midnight the night before class"
 
-    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each — so one lost week is survivable. Step-by-step: [where your work goes](../where-your-work-goes.md).
+    **PLAY** → link your frame on this week's Miro board. **Reflection** → link your heading in this week's Google Doc. Two separate ELMS assignments, **2 points each**, and I drop your lowest of each, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
 
     Neither is **accepted late**, because I use them to plan class. See the syllabus late policy for what to do if life gets in the way!
 

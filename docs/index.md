@@ -9,6 +9,6 @@ This site houses the following documents:
 
 - **[Syllabus](syllabus.md)**
 - **[Schedule](schedule.md)**
-- **Quests** — one page per week that lists readings, watches, and play instructions. See Week 1's quest, for example!
-- **Missions** — one page that describes each of the three missions in the course: [CHI Papers Mission](missions/chi-papers.md), [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), and [Accessibility Testing Mission](missions/accessibility-testing.md).
+- **Quests**: one page per week that lists readings, watches, and play instructions. See Week 1's quest, for example!
+- **Missions**: one page that describes each of the three missions in the course: [CHI Papers Mission](missions/chi-papers.md), [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md), and [Accessibility Testing Mission](missions/accessibility-testing.md).
 
