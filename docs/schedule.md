@@ -173,7 +173,7 @@ Joel is away, but you'll get to hear from [Yimin Xiao](https://yiminxiao.com/), 
 
     📺 **WATCH**: Katta Spiel, *(Some) Bodies in Interaction — A Critical Look at which Bodies HCI Considers* (~50 min, [video](https://www.youtube.com/watch?v=f93u0irOoRo))
 
-    🃏 **PLAY** (in class this week!): **unplug the mouse.** Nothing to do beforehand, since you'll be busy with your usability tests! This is **hour one of the [Accessibility Testing Mission](missions/accessibility-testing.md)**: pick the page *and the task*, put the mouse out of reach, and spend the hour keyboard-only. Log every lost focus ring, unreachable control, keyboard trap, surprising jump, and forty-Tab journey. This list is the first pass of the manual inspection!
+    🃏 **PLAY** (in class this week!): **unplug the mouse.** Nothing to do beforehand, and nothing to hand in, since you'll be busy with your usability tests! A gentle first run at accessibility testing, in groups: each group gets a list of sites with a task for each, and you spend half an hour keyboard-only. Log every lost focus ring, unreachable control, keyboard trap, surprising jump, and forty-Tab journey. It's not part of the [Accessibility Testing Mission](missions/accessibility-testing.md).
 
     🎒 **Bring one object you use every day**: whatever's already in your bag or pocket is fine!
 
@@ -192,7 +192,7 @@ Joel is away, but you'll get to hear from [Yimin Xiao](https://yiminxiao.com/), 
 
     📺 **WATCH**: [how to track a manual evaluation](https://youtu.be/C770bSvGr_E?t=663), hands-on demo (~26 mins)
 
-    🃏 **PLAY** (in class this week!): **make it more accessible.** Nothing to do beforehand: just arrive with it open. Take the interface you evaluated for [Evaluations and Usability Testing Mission](missions/evaluations-and-usability-testing.md) and fix one or two accessibility problems in it, with EDA 4 as the guide and the **WCAG designer resources** as inspiration ([UI](https://www.wcag.com/resource/ui-quick-tips-for-designers/) and [UX quick tips](https://www.wcag.com/resource/ux-quick-tips-for-designers/), [key success criteria](https://www.wcag.com/designers/), [designing for web accessibility](https://www.w3.org/WAI/tips/designing/)). Aim to fix one or two problems properly, rather than listing ten. NOTE: this play is subject to change, pending Dr. Jordan's instructions :)
+    🃏 **PLAY** (a taster before class, the real run in class): **turn on the screen reader.** Before class, set a timer for 20 minutes: get your screen reader set up, take your eyes off the screen, and just listen to your [Accessibility Testing Mission](missions/accessibility-testing.md) page. Write about what confused you in your reflection. In class, Dr. Jordan shows us how it's done, and then you do the real run: an ordinary task on the same page, eyes off the screen. This is the start of the mission's manual inspection (Part 1). Bring headphones! NOTE: this play is subject to change, pending Dr. Jordan's instructions :)
 
     Weekly reflection
 

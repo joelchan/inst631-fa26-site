@@ -15,9 +15,9 @@ For submission purposes, make a Google Doc with your name on it in this shared f
 
 Identify 4-10 WCAG violations, and describe them. Take screenshots of the webpage/HTML code, if relevant, to help describe each violation. Explain which guideline is being violated, and how you can tell. 
 
-!!! tip "You already did the first hour of this"
+!!! tip "You can build on the Week 10 play, if you like"
 
-    In Week 10 you picked this page, picked a task, and drove it keyboard-only. **Use the same page and the same task here**, and bring that list with you! Keyboard traps, lost focus, and surprising focus order are all WCAG violations, and they count toward your 4–10. The screen reader adds speech on top of navigation you already know.
+    In Week 10 you drove a page keyboard-only. You're welcome to use the same page and task here, and bring that list with you! Keyboard traps, lost focus, and surprising focus order are all WCAG violations, so they count toward your 4–10. But you don't have to: a fresh page is fine too. Either way, the screen reader adds speech on top of the keyboard navigation you tried in class.
 
 
 Directions: Do a manual inspection of a specific webpage in two passes. First, **listen**: turn the screen reader on, stop looking at the screen, and try to complete an ordinary task on the page. Then **look at the code**: go back to the HTML and work out what caused each thing you noticed. The order matters: you're finding a symptom by ear, then locating its cause in the markup, which is how this is done in practice.
@@ -32,7 +32,7 @@ A screen reader is especially good at exposing:
 - focus order that jumps around the page (you'll hear yourself end up somewhere that makes no sense)
 - ARIA that lies: a label or role that doesn't match what the control actually does
 
-NOTE: what's **not** on that list is whether the focus indicator is *visible*. A screen reader announces what has focus whether or not anything is drawn on the screen, so a missing or invisible focus ring (WCAG 2.4.7), focus hidden behind a sticky header (2.4.11), and an indicator too faint to spot (2.4.13) are all things this pass structurally cannot find. Those come from your keyboard hour, with your eyes open. So the screen reader and the keyboard are two instruments that pick up different things, which is the same lesson Part 3 asks you to draw about manual versus automated.
+NOTE: what's **not** on that list is whether the focus indicator is *visible*. A screen reader announces what has focus whether or not anything is drawn on the screen, so a missing or invisible focus ring (WCAG 2.4.7), focus hidden behind a sticky header (2.4.11), and an indicator too faint to spot (2.4.13) are all things this pass structurally cannot find. You find those with the keyboard and your eyes open, like in the Week 10 play. So the screen reader and the keyboard are two instruments that pick up different things, which is the same lesson Part 3 asks you to draw about manual versus automated.
 
 Remember to share what webpage you picked, and what screen reader you used!
 

@@ -45,27 +45,26 @@ Katta Spiel, *(Some) Bodies in Interaction — A Critical Look at which Bodies H
     I figure you'll be busy running your usability tests this week (they're due next week!), so we'll do this play together in class instead of as another hour at home.
 
 
-This is **hour one of your [Accessibility Testing Mission](../missions/accessibility-testing.md)**: so keep the play outputs and add to your mission!
+Think of this as a gentle first run at the kind of testing you'll do in the [Accessibility Testing Mission](../missions/accessibility-testing.md). It's not part of the mission, so it's ok to poke around and get things wrong!
 
-Before you start, decide on:
+We'll do it in groups. Each group gets a list of sites (on the slide), each with a task: what a person actually comes to that page to do (e.g., buy the thing, book the appointment, find the opening hours, submit the form). Take one site each. If you recognize one, take it!
 
-- The **page** you're going to evaluate.
-- The **task**: what a person actually comes to that page to do (e.g., buy the thing, book the appointment, find the opening hours, submit the form). You'll use this same task for the mission's screen reader pass, so the two hours are comparable.
+There's a reason your group got the sites it did. We'll get to that after the break :)
 
-Now put your mouse and trackpad somewhere you can't reach them. Here's the plan for the hour:
+Now put your mouse and trackpad somewhere you can't reach them. Here's the plan (about half an hour):
 
-1. Get oriented (~10 min). Tab, Shift-Tab, Enter, Space, arrow keys. That's your whole vocabulary now: no more mouse!
-2. Try to do the task (~40 min). Keep a running list of the times you:
+1. Get oriented (~5 min). Tab, Shift-Tab, Enter, Space, arrow keys. That's your whole vocabulary now: no more mouse!
+2. Try to do the task (~20 min). Keep a running list of the times you:
 	- lost the focus ring and couldn't tell where you were
 	- couldn't reach something you could plainly see
 	- got trapped somewhere and couldn't Tab out
 	- ended up somewhere surprising (e.g., focus jumped to a spot that made no sense)
 	- had to Tab through forty things to get to the one you wanted
-3. Post your list (~10 min). It's ok if it's rough! Also note where you wanted to give up: rage is data!
+3. Pool your lists as a group (~8 min). It's ok if it's rough! Also note where you wanted to give up: rage is data! Don't worry about naming the problems yet: we'll do that together later tonight.
 
 !!! note "This is not a disability simulation!"
 
-    An hour of doing this doesn't tell you what anyone's life is like. But it's useful as an **instrument**, the same reason the screen reader is in the mission. A great deal of assistive technology (switches, sip-and-puff, head wands, eye tracking, voice control) either works through the keyboard or emulates it. A page you can't drive by keyboard can't be driven by most of them either, so it's useful to uncover how things break when you don't have a mouse!
+    Half an hour of doing this doesn't tell you what anyone's life is like. But it's useful as an **instrument**, the same reason the screen reader is in the mission. A great deal of assistive technology (switches, sip-and-puff, head wands, eye tracking, voice control) either works through the keyboard or emulates it. A page you can't drive by keyboard can't be driven by most of them either, so it's useful to uncover how things break when you don't have a mouse!
 
     Keep your findings about the **page**.
 
@@ -75,7 +74,7 @@ Now put your mouse and trackpad somewhere you can't reach them. Here's the plan 
     I think of them as two instruments that pick up different things. So there's a couple reasons to do them separately:
 
     1. Some failures can only be **seen**. A screen reader announces whatever has focus, whether or not anything is drawn on screen. So a missing focus ring (WCAG 2.4.7 Focus Visible), focus hiding behind a sticky header (2.4.11 Focus Not Obscured), or an indicator too faint to find (2.4.13 Focus Appearance) won't show up in the screen reader pass, but you'll notice them right away in this one. So this play will complement what you'll do with the screen reader.
-    2. One new thing at a time. Using a screen reader well means learning the navigation layer, the speech layer, browse vs. focus modes, and verbosity settings, all at once. That's a lot! So this play gets you comfortable with navigation first, while you can still *see* where focus is. Then speech is the only new variable in hour two, and if something is baffling, you'll have a better shot at telling whether it's you or the page.
+    2. One new thing at a time. Using a screen reader well means learning the navigation layer, the speech layer, browse vs. focus modes, and verbosity settings, all at once. That's a lot! So this play gets you comfortable with navigation first, while you can still *see* where focus is. Then when you get to the screen reader in the mission, speech is the only new variable, and if something is baffling, you'll have a better shot at telling whether it's you or the page.
 
     NOTE: practitioners don't usually split these up: an experienced evaluator often runs the screen reader *with* the keyboard, because that's closer to a real workflow. We're splitting them for learning purposes, so you can get a feel for what each one is good at.
 
@@ -99,13 +98,13 @@ Three things: a **Snag**, a **Compare**, and an **Ask**. There's no word count a
     AI wasn't there when you got stuck, it didn't make your play, and it doesn't know what you believed last week. A reflection that could have been written without doing the week does not contribute to your learning, and pollutes the class's learning space instead. Please be a good citizen of our learning commons!
 
 
-!!! warning "Two hand-ins, and this week they are due at different times"
+!!! warning "Just one hand-in this week: the reflection"
 
     **Reflection** → link your heading in this week's Google Doc, **midnight the night before class**, as usual.
 
-    **PLAY** → link your frame on this week's Miro board, **midnight the night *of* class**, because you make it during the session. (Next week works this way too.)
+    **PLAY** → nothing to hand in this week! We do it together in class, and it stays there.
 
-    Two separate ELMS assignments, **2 points each**, and I drop your lowest of each, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
+    The reflection is its own ELMS assignment, **2 points**, and I drop your lowest, so it's ok if you lose a week! Step-by-step: [where your work goes](../where-your-work-goes.md).
 
     The reflection is not **accepted late**, because I use it to plan class. See the syllabus late policy for what to do if life gets in the way!
 
