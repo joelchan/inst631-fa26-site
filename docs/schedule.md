@@ -209,7 +209,7 @@ Joel is away, but you'll get to hear from [Yimin Xiao](https://yiminxiao.com/), 
 
     📚 **READ**: Yang et al. (2020), *Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design* (13pp, [doi:10.1145/3313831.3376301](https://doi.org/10.1145/3313831.3376301))
 
-    📺 **WATCH**: UIST '24 Vision Talks: Arvind Satyanarayan, *Intelligence as Agency*; Wendy Mackay, *Parasitic or Symbiotic?* (**~25 min each, ~50 min total**). The recording is one 105-min video of the whole session; Q&A optional.
+    📺 **WATCH**: Michael Bernstein, *The Interface of Theseus: The Rise of Just-in-Time Interfaces* (UIST 2026 vision talk, ~30 min). CYO options on the week page: the Maes–Shneiderman debate, reprised at UIST 2026, and the UIST '24 vision talks by Arvind Satyanarayan and Wendy Mackay
 
     🃏 **PLAY**: the sparkle-button audit: collect the AI features already in the products you use
 
@@ -232,7 +232,7 @@ What is the role of an HCI expert in the age of AI?
 
     📚 **READ**: Ink & Switch, *Malleable Software: Restoring user agency in a world of locked-down apps* (~10,000 words, so ~45 min: it's longer than it looks!)
 
-    📺 **WATCH**: Maggie Appleton, *Home-cooked Software and Barefoot Programmers* (~27 min)
+    📺 **WATCH**: Maggie Appleton, *Home-cooked Software and Barefoot Programmers* (~27 min). CYO options on the week page: Frank Elavsky's post on prototyping, Andy Matuschak's *Two Accidental Tyrannies*, and a talk by Jenny Wen
 
     🃏 **NO PLAY**: we build in class instead, so come with a working tool and an idea
 
