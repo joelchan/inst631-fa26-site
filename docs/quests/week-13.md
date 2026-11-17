@@ -28,9 +28,18 @@ How AI changes *how* we design. **What is the role of an HCI expert in the age o
 
 [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/), by Litt, Horowitz, van Hardenberg, and Matthews (Ink & Switch, 2025)
 
+**CYOs available:**
+
+- Frank Elavsky, [*On genAI: Was prototyping really a bottleneck?*](https://www.frank.computer/blog/2026/03/prototyping-bottleneck.html)
+
 ## 📺 WATCH
 
 Maggie Appleton, [*Home-cooked Software and Barefoot Programmers*](https://www.youtube.com/watch?v=qo5m92-9_QI) (27:10)
+
+**CYOs available:**
+
+- Andy Matuschak, [*Two Accidental Tyrannies*](https://andymatuschak.org/tat/) (~35m)
+- Jenny Wen (Design Lead at Anthropic), [*The design process is dead: Why designers can no longer trust it*](https://www.youtube.com/watch?v=4u94juYwLLM) (25m)
 
 ## 🃏 NO PLAY
 

@@ -33,12 +33,15 @@ Note the date: it is from before ChatGPT existed!
 
 ## 📺 WATCH
 
-[UIST '24 Vision Talks](https://www.youtube.com/watch?v=-k4qZHkiS1Y) (~25 min each). From two leaders of the field, one established and one current.
+Hot off the presses! Michael Bernstein's (Stanford HCI) UIST 2026 vision talk, [*The Interface of Theseus: The Rise of Just-in-Time Interfaces*](https://www.youtube.com/watch?v=fHU8694Galw) (~30 mins)
 
-1. **Arvind Satyanarayan** (MIT CSAIL / MIT Visualization Group, with Graham Jones, MIT Anthropology): *Intelligence as Agency*.
-2. **Wendy E. Mackay** (Inria / Université Paris-Saclay / Collège de France): *Parasitic or Symbiotic? Redefining our Relationship with Intelligent Systems*.
+**Many CYOs available!**
 
-*The Q&A after the talks is lovely, but optional (bonus, not required).*
+- The classic agents vs. direct manipulation debate between Patti Maes and our own Ben Shneiderman, [reprised at UIST 2026](https://www.youtube.com/watch?v=bzwajH4sWd0)!
+- [UIST '24 Vision Talks](https://www.youtube.com/watch?v=-k4qZHkiS1Y) (~25 min each). From two leaders of the field, one established and one current.
+	- **Arvind Satyanarayan** (MIT CSAIL / MIT Visualization Group, with Graham Jones, MIT Anthropology): *Intelligence as Agency*. (3:30-27:00)
+	- **Wendy E. Mackay** (Inria / Université Paris-Saclay / Collège de France): *Parasitic or Symbiotic? Redefining our Relationship with Intelligent Systems*. (27:37-54:16)
+	- *The Q&A after the talks is lovely, but optional (bonus, not required).*
 
 ## 🃏 PLAY
 
