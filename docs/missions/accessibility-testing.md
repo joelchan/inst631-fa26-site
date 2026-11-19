@@ -42,6 +42,11 @@ Identify 3 violations that the tool identified. Take screenshots of the webpage/
 
 Directions: On that same webpage, use an automated tool to evaluate accessibility. Find potential WCAG violations according to those tools. 
 
+Here are the two options we discussed in class (you may choose another if you wish!):
+
+- ANDI - Accessibility Testing Tool ([install](https://www.ssa.gov/accessibility/andi/help/install.html))
+- [WAVE Web Accessibility Evaluation Tools](https://wave.webaim.org/)
+
 Remember to share which automated tool you used!
 
 ## Part 3: Comparison — _due Week 14 before class_
